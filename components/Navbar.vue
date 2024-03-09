@@ -229,11 +229,11 @@
                 </a>
               </div>
             </div>
-            <div class="pbmit-header-search-btn">
+            <!-- <div class="pbmit-header-search-btn">
               <a href="#" title="Search">
                 <i class="pbmit-base-icon-search-1"></i>
               </a>
-            </div>
+            </div> -->
             <div class="pbmit-button-box-second">
               <a class="pbmit-btn" href="make-appointments-01.html">
                 <span class="pbmit-button-content-wrapper">
