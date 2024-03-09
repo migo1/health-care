@@ -23,7 +23,7 @@
               <aside class="widget widget_text">
                 <div class="textwidget">
                   <div class="pbmit-footer-logo">
-                    <img src="/images/logo.svg" alt="" />
+                    <img src="/images/medical-logo.png" alt="" />
                   </div>
                   <div class="pbmit-footer-text">
                     The healthcare arena there was a felt need of developing new
@@ -153,5 +153,7 @@
 </script>
 
 <style>
-
+.site-footer .pbmit-footer-widget-col-1 .pbmit-footer-logo img {
+  height: 95px;
+}
 </style>
