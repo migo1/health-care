@@ -16,6 +16,8 @@ export default defineNuxtConfig({
   
   app: {
     head: {
+      title: 'DC MEDICAL',
+      link: [{ rel: 'icon', type: 'image/x-icon', href: '/images/dc_logo.png' }],
       script: [
         { 'src': '/js/jquery.min.js', tagPosition: 'bodyClose' },
         { 'src': '/js/popper.min.js', tagPosition: 'bodyClose' },

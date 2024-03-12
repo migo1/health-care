@@ -7,7 +7,7 @@
                 <div class="swiper-slide">
                     <div class="pbmit-slider-item">
                         <div class="pbmit-slider-bg" style="
-                    background-image: url(images/slider-img/demo01-slide-01.jpg);
+                    background-image: url(images/main_slide1.jpg);
                   "></div>
                         <div class="container">
                             <div class="row text-center">
@@ -145,7 +145,7 @@
                 <div class="swiper-slide">
                     <div class="pbmit-slider-item">
                         <div class="pbmit-slider-bg" style="
-                    background-image: url(images/slider-img/demo01-slide-03.jpg);
+                    background-image: url(images/main_slide2.jpg);
                   "></div>
                         <div class="container">
                             <div class="row text-center">

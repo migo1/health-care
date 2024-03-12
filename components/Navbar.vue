@@ -22,11 +22,8 @@
                 </span>
                 <ul class="navigation clearfix">
                   <li class="dropdown">
-                    <a href="index.html">Home</a>
+                    <NuxtLink to="/">Home</NuxtLink>
 
-                  </li>
-                  <li class="dropdown">
-                    <a href="#">Our Team</a>
                   </li>
                   <li class="dropdown">
                     <a href="#">Services</a>
@@ -49,14 +46,17 @@
                     </ul>
                   </li>
                   <li class="dropdown">
-                    <a href="#">About us</a>
-
+                    <NuxtLink to="/about_us">About us</NuxtLink>
                   </li>
                   <li class="dropdown">
-                    <a href="#">Book Appointment</a>
-
+                    <NuxtLink to="/book_appointment">Book Appointment</NuxtLink>
+                  </li >
+                   <li class="dropdown">
+                    <NuxtLink to="/contact_us">Contact Us</NuxtLink>
                   </li>
-                  <li><a href="contact-us.html">Contact Us</a></li>
+                    <li class="">
+                    <NuxtLink to="/faq">FAQ</NuxtLink>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -66,11 +66,10 @@
       <div class="pbmit-logo-menuarea d-flex align-items-center">
         <div class="site-branding">
           <h1 class="site-title">
-            <a href="index.html">
-
+            <NuxtLink to="/">
               <img class="pbmit-sticky-logo" src="/images/medical-logo.png" alt="Yoge" />
               <span class="logo-heaader">DC MEDICAL SYSTEM</span>
-            </a>
+            </NuxtLink>
           </h1>
         </div>
       </div>
