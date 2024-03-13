@@ -145,7 +145,7 @@
                 <div class="swiper-slide">
                     <div class="pbmit-slider-item">
                         <div class="pbmit-slider-bg" style="
-                    background-image: url(images/main_slide2.jpg);
+                    background-image: url(images/main_slide3.jpg);
                   "></div>
                         <div class="container">
                             <div class="row text-center">
