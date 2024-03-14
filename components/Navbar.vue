@@ -70,16 +70,16 @@
                     </ul>
                   </li>
                   <li class="dropdown">
-                    <NuxtLink to="about_us">About us</NuxtLink>
+                    <NuxtLink to="/about_us">About us</NuxtLink>
                   </li>
                   <li class="dropdown">
-                    <NuxtLink to="book_appointment">Book Appointment</NuxtLink>
+                    <NuxtLink to="/book_appointment">Book Appointment</NuxtLink>
                   </li>
                   <li class="dropdown">
-                    <NuxtLink to="contact_us">Contact Us</NuxtLink>
+                    <NuxtLink to="/contact_us">Contact Us</NuxtLink>
                   </li>
                   <li class="">
-                    <NuxtLink to="faq">FAQ</NuxtLink>
+                    <NuxtLink to="/faq">FAQ</NuxtLink>
                   </li>
                 </ul>
               </div>

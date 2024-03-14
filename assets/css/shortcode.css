@@ -3413,7 +3413,7 @@
 .pbmit-title-bar-wrapper{
 	position: relative;
 	z-index: 1;
-	background-image: url(../images/bg/titlebar-bg-img.jpg);
+	background-image: url(../images/header.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -3473,7 +3473,7 @@
     text-transform: none;
     font-style: normal;
 	margin-bottom: 0px;
-	color: var(--pbmit-blackish-color);
+	color: var(--pbmit-light-color);
 	font-family: var(--pbmit-heading-typography-font-family);
 }
 .single-post .pbmit-tbar-title{
@@ -3489,7 +3489,7 @@
     font-size: 15px;
     line-height: 25px;
     letter-spacing: 0;
-    color: var(--pbmit-blackish-color);
+    color: var(--pbmit-light-color);
     text-transform: capitalize;
     font-style: normal;	
 	font-family: var(--pbmit-heading-typography-font-family);

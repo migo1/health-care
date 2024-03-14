@@ -68,7 +68,7 @@
                   />
                 </div>
                 <div class="col-md-12 col-xl-6 pbmit-tab-list">
-                  <h2>We are here to hear and heal your</h2>
+                  <h2>We are here provide better services</h2>
                   <div>
                     Consultations entail in-depth discussions regarding medical
                     history, symptoms, and patient concerns to gather essential
