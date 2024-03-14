@@ -37,7 +37,7 @@
                 </span>
                 <ul class="navigation clearfix">
                   <li class="dropdown">
-                    <a href="/">Home</a>
+                    <NuxtLink to="/">Home</NuxtLink>
                   </li>
                   <li class="dropdown">
                     <a href="#">Services</a>
@@ -90,14 +90,14 @@
       <div class="pbmit-logo-menuarea d-flex align-items-center">
         <div class="site-branding">
           <h1 class="site-title">
-            <a href="/">
+            <NuxtLink to="/">
               <img
                 class="pbmit-sticky-logo"
                 src="/images/medical-logo.png"
                 alt="Yoge"
               />
               <span class="logo-heaader">DC MEDICAL SYSTEM</span>
-            </a>
+            </NuxtLink>
           </h1>
         </div>
       </div>
