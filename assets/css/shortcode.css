@@ -3462,7 +3462,7 @@
     color: #031b4e;
     text-transform: capitalize;
     font-style: normal;
-	color: var(--pbmit-blackish-color);
+	color: var(--pbmit-light-color);
 	font-family: var(--pbmit-heading-typography-font-family);
 }
 .pbmit-tbar-title{
