@@ -8,8 +8,8 @@
               <div class="col-md-12 col-xl-4"></div>
               <div class="col-md-12 col-xl-8 pbmit-footer-right">
                 <h3 class="pbmit-title">
-                  There is Only One Thing In The World I Want <br />
-                  And That Is Hospital.
+                  The Best Primary Care Services<br />
+                  In the world.
                 </h3>
               </div>
             </div>

@@ -75,12 +75,12 @@
                   <li class="dropdown">
                     <NuxtLink to="/book_appointment">Book Appointment</NuxtLink>
                   </li>
-                  <li class="dropdown">
+                  <li class="">
                     <NuxtLink to="/contact_us">Contact Us</NuxtLink>
                   </li>
-                  <li class="">
+                  <!-- <li class="">
                     <NuxtLink to="/faq">FAQ</NuxtLink>
-                  </li>
+                  </li> -->
                 </ul>
               </div>
             </div>
