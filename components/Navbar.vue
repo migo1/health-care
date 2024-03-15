@@ -54,7 +54,7 @@
                       </li>
                       <li>
                         <NuxtLink to="/services/medication_management"
-                          >Medication Management</NuxtLink
+                          >Primary Care Medication</NuxtLink
                         >
                       </li>
                       <li>

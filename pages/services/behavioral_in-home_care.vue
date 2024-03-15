@@ -43,7 +43,7 @@
             <div class="col-lg-9 service-right-col">
               <div class="pbmit-service-feature-image">
                 <img
-                  src="/images/service_details/service-d-1-1.jpg"
+                  src="/images/service_details/service-d-5-1.jpg"
                   class="img-fluid w-100"
                   alt=""
                 />

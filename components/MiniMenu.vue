@@ -12,12 +12,12 @@
                       </li>
                       <li>
                         <NuxtLink to="/services/behavioral_in-home_care"
-                          >In-Home Care</NuxtLink
+                          >behavioral In-Home Care</NuxtLink
                         >
                       </li>
                       <li>
                         <NuxtLink to="/services/medication_management"
-                          >Medication Management</NuxtLink
+                          >Primary Care Medication</NuxtLink
                         >
                       </li>
                       <li>
