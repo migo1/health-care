@@ -25,11 +25,11 @@
                           >Remote Patient Monitoring</NuxtLink
                         >
                       </li>
-                      <li>
+                      <!-- <li>
                         <NuxtLink to="/services/telemedicine_visits"
                           >Telemedicine Visits</NuxtLink
                         >
-                      </li>
+                      </li> -->
                     </ul>
                   </div>
                 </aside>

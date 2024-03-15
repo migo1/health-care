@@ -144,7 +144,7 @@
                   <div class="row">
                     <div class="pbmit-heading animation-style2">
                       <h4 class="pbmit-title mb-3">
-                        The Benefits of In-Home Chronic Care Management
+                        The Benefits of Remote Patient Monitoring
                       </h4>
                     </div>
                     <div class="col-md-12">
