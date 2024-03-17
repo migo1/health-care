@@ -1,19 +1,23 @@
 <template>
   <div class="container-fluid">
-    <div
-      class="pbmit-header-content d-flex justify-content-between align-items-center"
-    >
+    <div class="pbmit-header-content d-flex justify-content-between align-items-center">
       <div class="d-flex justify-content-between align-items-center">
         <div class="site-navigation">
           <nav class="main-menu navbar-expand-xl navbar-light">
             <div class="navbar-header">
               <!-- Toggle Button -->
-              <button class="navbar-toggler" type="button">
+              <button
+                class="navbar-toggler"
+                type="button"
+              >
                 <i class="pbmit-base-icon-menu-1"></i>
               </button>
             </div>
             <div class="pbmit-mobile-menu-bg"></div>
-            <div class="collapse navbar-collapse clearfix show" id="pbmit-menu">
+            <div
+              class="collapse navbar-collapse clearfix show"
+              id="pbmit-menu"
+            >
               <div class="pbmit-menu-wrap">
                 <span class="closepanel">
                   <svg
@@ -43,29 +47,19 @@
                     <a href="#">Services</a>
                     <ul>
                       <li>
-                        <NuxtLink to="/services/chronic_care_management"
-                          >Chronic Care
-                        </NuxtLink>
+                        <NuxtLink to="/services/chronic_care_management">Chronic Care </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink to="/services/behavioral_in-home_care"
-                          >In-Home Care</NuxtLink
-                        >
+                        <NuxtLink to="/services/behavioral_in-home_care">In-Home Care</NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink to="/services/medication_management"
-                          >Medication Management</NuxtLink
-                        >
+                        <NuxtLink to="/services/medication_management">Medication Management</NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink to="/services/remote_patient_monitoring"
-                          >Remote Patient Monitoring</NuxtLink
-                        >
+                        <NuxtLink to="/services/remote_patient_monitoring">Remote Patient Monitoring</NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink to="/services/telemedicine_visits"
-                          >Telemedicine Visits</NuxtLink
-                        >
+                        <NuxtLink to="/services/telemedicine_visits">Telemedicine Visits</NuxtLink>
                       </li>
                     </ul>
                   </li>
@@ -105,7 +99,13 @@
   </div>
 </template>
 
-<script lang="ts" setup></script>
+<script setup>
+onMounted(() => {
+  $(".navbar-toggler,.closepanel").on("click", function () {
+    jQuery("header").toggleClass("active");
+  });
+});
+</script>
 
 <style scoped>
 .site-header .site-branding img {
