@@ -36,7 +36,7 @@
                   </svg>
                 </span>
                 <ul class="navigation clearfix">
-                  <li class="dropdown">
+                  <li class="menu-separator">
                     <NuxtLink to="/">Home</NuxtLink>
                   </li>
                   <li class="dropdown">
@@ -69,10 +69,10 @@
                       </li> -->
                     </ul>
                   </li>
-                  <li class="dropdown">
+                  <li class="menu-separator">
                     <NuxtLink to="/about_us">About us</NuxtLink>
                   </li>
-                  <li class="dropdown">
+                  <li class="menu-separator">
                     <NuxtLink to="/book_appointment">Book Appointment</NuxtLink>
                   </li>
                   <li class="">
@@ -144,5 +144,20 @@ onMounted(() => {
 
 .router-link-active.router-link-exact-active {
   color: #7c8187;
+}
+
+@media (min-width: 1200px) {
+  .main-menu ul > li.menu-separator > a::after {
+    content: "";
+    position: absolute;
+    right: -31px;
+    top: 50%;
+    -khtml-transform: translateX(0%) translateY(-50%);
+    transform: translateX(0%) translateY(-50%);
+    width: 6px;
+    height: 6px;
+    background-color: var(--pbmit-global-color);
+    border-radius: 50%;
+  }
 }
 </style>
