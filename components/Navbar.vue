@@ -105,7 +105,27 @@
   </div>
 </template>
 
-<script lang="ts" setup></script>
+<script setup>
+onMounted(() => {
+  $(".navbar-toggler,.closepanel").on("click", function () {
+    jQuery("header").toggleClass("active");
+  });
+   /*-------------------------------------
+    Add plus icon in menu
+    -------------------------------------*/
+  	$( ".main-menu ul.navigation li.dropdown").append( "<span class='righticon'><i class='pbmit-base-icon-angle-right'></i></span>" );
+  
+  /*-------------------------------------
+  Responsive Menu
+  -------------------------------------*/ 
+	$('.main-menu ul.navigation li.dropdown .righticon').on('click', function() {
+			$(this).siblings().toggleClass('open');
+			$(this).find('i').toggleClass('pbmit-base-icon-angle-right pbmit-base-icon-up-open-big');
+			return false;
+	});  
+
+});
+</script>
 
 <style scoped>
 .site-header .site-branding img {
