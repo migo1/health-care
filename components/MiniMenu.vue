@@ -2,7 +2,7 @@
        <div class="col-lg-3 service-left-col sidebar">
               <aside class="service-sidebar">
                 <aside class="widget post-list">
-                  <h2 class="widget-title">Our Service</h2>
+                  <h2 class="widget-title">Our Services</h2>
                   <div class="all-post-list">
                     <ul>
                       <li class="">
@@ -25,11 +25,11 @@
                           >Remote Patient Monitoring</NuxtLink
                         >
                       </li>
-                      <!-- <li>
-                        <NuxtLink to="/services/telemedicine_visits"
-                          >Telemedicine Visits</NuxtLink
+                      <li>
+                        <NuxtLink to="/services/home_health_aide"
+                          >Home Health Aide</NuxtLink
                         >
-                      </li> -->
+                      </li>
                     </ul>
                   </div>
                 </aside>
