@@ -11,8 +11,8 @@
                         </NuxtLink>
                       </li>
                       <li>
-                        <NuxtLink to="/services/behavioral_in-home_care"
-                          >behavioral In-Home Care</NuxtLink
+                        <NuxtLink to="/services/home_health_care"
+                          >Home Health Care</NuxtLink
                         >
                       </li>
                       <li>

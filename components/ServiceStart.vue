@@ -122,14 +122,14 @@
                       <div class="pbmit-contant-box">
                         <div class="pbmit-serv-cat">
                           <NuxtLink
-                            to="services/behavioral_in-home_care"
+                            to="services/home_health_care"
                             rel="tag"
-                            >In-Home Services</NuxtLink
+                            >Home Health Care</NuxtLink
                           >
                         </div>
                         <h3 class="pbmit-service-title">
-                          <NuxtLink to="services/behavioral_in-home_care"
-                            >In-Home Services</NuxtLink
+                          <NuxtLink to="services/home_health_care"
+                            >Home Health Care</NuxtLink
                           >
                         </h3>
                       </div>
@@ -141,8 +141,8 @@
                 </div>
                 <NuxtLink
                   class="pbmit-service-btn"
-                  to="services/behavioral_in-home_care"
-                  title="In-Home Services"
+                  to="services/home_health_care"
+                  title="Home Health Care"
                 >
                   <span class="pbmit-button-icon-wrapper">
                     <span class="pbmit-button-icon">
@@ -153,7 +153,7 @@
               </div>
               <NuxtLink
                 class="pbmit-link"
-                to="services/behavioral_in-home_care"
+                to="services/home_health_care"
               ></NuxtLink>
             </div>
           </article>

@@ -8,7 +8,7 @@
             <div class="pbmit-tbar">
               <div class="pbmit-tbar-inner container">
                 <h3 class="pbmit-tbar-subtitle">Service</h3>
-                <h1 class="pbmit-tbar-title">Behavioral In-home Care</h1>
+                <h1 class="pbmit-tbar-title">Home Health Care</h1>
               </div>
             </div>
             <div class="pbmit-breadcrumb">
@@ -23,7 +23,7 @@
                 <span class="sep"> / </span>
                 <span>
                   <a title="" href="#" class="home"
-                    ><span>Behavioral In-home Care Services</span></a
+                    ><span>Home Health Care Services</span></a
                   >
                 </span>
               </div>
@@ -52,11 +52,11 @@
                 <div class="pbmit-service_content">
                   <div class="pbmit-heading animation-style2">
                     <h3 class="pbmit-title mb-3">
-                      Behavioral In-home Care Services
+                      Home Health Care Services
                     </h3>
                   </div>
                   <p class="pbmit-firstletter">
-                    Our in-home behavioral health services offer personalized
+                    Our home health services offer personalized
                     mental health care services intended to address various
                     behavioral health outcomes. We have a team of qualified
                     professionals who bring therapy sessions and counseling to
