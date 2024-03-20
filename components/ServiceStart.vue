@@ -70,12 +70,12 @@
                     <div class="pbmit-content-inner-wrap">
                       <div class="pbmit-contant-box">
                         <div class="pbmit-serv-cat">
-                          <NuxtLink to="services/chronic_care_management"
+                          <NuxtLink to="/services/chronic_care_management"
                             >Chronic Care</NuxtLink
                           >
                         </div>
                         <h3 class="pbmit-service-title">
-                          <NuxtLink to="services/chronic_care_management"
+                          <NuxtLink to="/services/chronic_care_management"
                             >Chronic Care</NuxtLink
                           >
                         </h3>
@@ -87,7 +87,7 @@
                   </div>
                 </div>
                 <NuxtLink
-                  to="services/chronic_care_management"
+                  to="/services/chronic_care_management"
                   class="pbmit-service-btn"
                   title="Chronic Care"
                 >
@@ -100,7 +100,7 @@
               </div>
               <NuxtLink
                 class="pbmit-link"
-                to="services/chronic_care_management"
+                to="/services/chronic_care_management"
               ></NuxtLink>
             </div>
           </article>
@@ -122,13 +122,13 @@
                       <div class="pbmit-contant-box">
                         <div class="pbmit-serv-cat">
                           <NuxtLink
-                            to="services/home_health_care"
+                            to="/services/home_health_care"
                             rel="tag"
                             >Home Health Care</NuxtLink
                           >
                         </div>
                         <h3 class="pbmit-service-title">
-                          <NuxtLink to="services/home_health_care"
+                          <NuxtLink to="/services/home_health_care"
                             >Home Health Care</NuxtLink
                           >
                         </h3>
@@ -141,7 +141,7 @@
                 </div>
                 <NuxtLink
                   class="pbmit-service-btn"
-                  to="services/home_health_care"
+                  to="/services/home_health_care"
                   title="Home Health Care"
                 >
                   <span class="pbmit-button-icon-wrapper">
@@ -153,7 +153,7 @@
               </div>
               <NuxtLink
                 class="pbmit-link"
-                to="services/home_health_care"
+                to="/services/home_health_care"
               ></NuxtLink>
             </div>
           </article>
@@ -192,7 +192,7 @@
                 </div>
                 <NuxtLink
                   class="pbmit-service-btn"
-                  to="services/remote_patient_monitoring"
+                  to="/services/remote_patient_monitoring"
                   title="Remote Patient Monitoring"
                 >
                   <span class="pbmit-button-icon-wrapper">
@@ -204,7 +204,7 @@
               </div>
               <NuxtLink
                 class="pbmit-link"
-                to="services/remote_patient_monitoring"
+                to="/services/remote_patient_monitoring"
               ></NuxtLink>
             </div>
           </article>
@@ -226,13 +226,13 @@
                       <div class="pbmit-contant-box">
                         <div class="pbmit-serv-cat">
                           <NuxtLink
-                            to="services/medication_management"
+                            to="/services/medication_management"
                             rel="tag"
                             >Medication Management</NuxtLink
                           >
                         </div>
                         <h3 class="pbmit-service-title">
-                          <NuxtLink to="services/medication_management"
+                          <NuxtLink to="/services/medication_management"
                             >Medication Management</NuxtLink
                           >
                         </h3>
@@ -245,7 +245,7 @@
                 </div>
                 <NuxtLink
                   class="pbmit-service-btn"
-                  to="services/medication_management"
+                  to="/services/medication_management"
                   title="Plastic Surgery"
                 >
                   <span class="pbmit-button-icon-wrapper">
@@ -257,7 +257,7 @@
               </div>
               <NuxtLink
                 class="pbmit-link"
-                to="services/medication_management"
+                to="/services/medication_management"
               ></NuxtLink>
             </div>
           </article>
@@ -278,12 +278,12 @@
                     <div class="pbmit-content-inner-wrap">
                       <div class="pbmit-contant-box">
                         <div class="pbmit-serv-cat">
-                          <NuxtLink to="services/telemedicine_visits" rel="tag"
-                            >Telemedicine Visits</NuxtLink
+                          <NuxtLink to="/services/home_health_aide" rel="tag"
+                            >Home Health Aide</NuxtLink
                           >
                         </div>
                         <h3 class="pbmit-service-title">
-                          <NuxtLink to="services/telemedicine_visits">Telemedicine Visits</NuxtLink>
+                          <NuxtLink to="/services/home_health_aide">Home Health Aide</NuxtLink>
                         </h3>
                       </div>
                     </div>
@@ -294,7 +294,7 @@
                 </div>
                 <NuxtLink
                   class="pbmit-service-btn"
-                  to="services/telemedicine_visits"
+                  to="/services/home_health_aide"
                   title="Dental Care"
                 >
                   <span class="pbmit-button-icon-wrapper">
@@ -306,7 +306,7 @@
               </div>
                 <NuxtLink
                 class="pbmit-link"
-                to="services/telemedicine_visits"
+                to="/services/home_health_aide"
               ></NuxtLink>
             </div>
           </article>

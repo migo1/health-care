@@ -51,33 +51,34 @@
               <div class="pbmit-entry-content">
                 <div class="pbmit-service_content">
                   <div class="pbmit-heading animation-style2">
-                    <h3 class="pbmit-title mb-3">
-                      Home Health Care Services
-                    </h3>
+                    <h3 class="pbmit-title mb-3">Home Health Care Services</h3>
                   </div>
                   <p class="pbmit-firstletter">
-                    Our home health services offer personalized
-                    mental health care services intended to address various
-                    behavioral health outcomes. We have a team of qualified
-                    professionals who bring therapy sessions and counseling to
-                    your comfort and privacy. We also ensure a safer space and
-                    conversant environment for patients with mobility and
-                    transportation restrictions.
+                    Home health care enables individuals recuperating from
+                    surgery, injury, or illness, coping with serious or chronic
+                    conditions, or facing multiple diagnoses to maintain a
+                    secure home environment and strive for independence.
                   </p>
                   <p>
-                    With more emphasis on personalized care and convenience, our
-                    services are intended to improve access to vital mental
-                    health support and empower our clients to accomplish their
-                    journey.
+                    Collaborating with you and your medical team, we devise a
+                    personalized strategy for medication management and provide
+                    education about your condition. Our team also facilitates
+                    your comprehension of the anticipated progression of your
+                    illness, educates you on recognizing warning signs, and
+                    collaborates with your physician to address potential issues
+                    proactively, averting serious complications.
                   </p>
 
                   <p>
-                    Equipped with expert training in mental health care, our
-                    experts are ready to tackle a diverse array of behavioral
-                    health issues and deliver evidence-based interventions
-                    personalized to each individual's requirements. They
-                    establish a secure and therapeutic setting, nurturing trust
-                    and open communication.
+                    At DC Medical System, our aim is to equip you or your family members
+                    with the necessary tools and support to manage your illness
+                    effectively, attain your health objectives, and embrace life
+                    to the fullest in accordance with your physician's
+                    recommendations and clinical requirements. Regardless of
+                    your preferred residence, our proficient team consisting of
+                    home health nurses, aides, and various therapists will
+                    conduct routine visits to deliver essential healthcare
+                    services.
                   </p>
                   <p>
                     Collaborating closely with clients, our specialists empower
@@ -90,7 +91,7 @@
                   <div class="row">
                     <div class="pbmit-heading animation-style2">
                       <h4 class="pbmit-title mb-3">
-                        Our Behavioral In-Home Care Process
+                        Home Health Care Services We Offer
                       </h4>
                     </div>
                     <div class="col-md-12">
@@ -98,7 +99,7 @@
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text"
                             ><h6 class="process-title">
-                              1. Assessment and Evaluation.
+                              1. Home Health Nurse.
                             </h6>
                             <p class="default-p">
                               Our expert team conducts a comprehensive
