@@ -6,7 +6,7 @@
                     <h4 class="pbmit-subtitle">Testimonials</h4>
                     <h2 class="pbmit-title">Our happy client say</h2>
                 </div>
-                <div class="testimonial_arrow swiper-btn-custom d-flex flex-row-reverse"></div>
+                <!-- <div class="testimonial_arrow swiper-btn-custom d-flex flex-row-reverse"></div> -->
             </div>
             <div class="swiper-slider" data-arrows-class="testimonial_arrow" data-autoplay="true" data-loop="true"
                 data-dots="false" data-arrows="true" data-columns="3" data-margin="30" data-effect="slide">

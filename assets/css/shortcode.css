@@ -1,37 +1,4 @@
-/******************************
 
-    INDEX:
-
-    00 - Section Title
-    01 - Icon Box
-    02 - Team Member
-    03 - Counter
-    04 - Service
-    05 - Blog
-    06 - Testimonial
-    07 - Header
-    08 - Footer
-    09 - Title Bar
-    10 - Overlap Colomn
-    11 - Accordion
-    12 - Circle Progress
-    13 - List Group
-    14 - Pbmit Slider
-    15 - Client
-    16 - Spinner-Box
-	17 - Sortable
-    18 - Img Animation
-	19 - Marquee
-    20 - Tab
-    21 - Pricing
-	22 - Portfolio
-	23 - Progress Bar
-
-******************************/
-
-/*----------------------------------------*/
-/*  00 - Section Title
-/*----------------------------------------*/
 .pbmit-heading-subheading {
     margin-bottom: 50px;
 	position: relative;
