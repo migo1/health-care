@@ -373,18 +373,17 @@
                           you may be eligible for Medicare coverage for home
                           health aides, with potential coverage also offered by
                           Medicaid and major insurance plans for those meeting
-                          eligibility criteria. Agencies such as Amedisys can
-                          provide guidance on Medicare coverage for home health
-                          aides, including any associated out-of-pocket
-                          expenses, before initiating care. It's important to
-                          note that Medicare typically covers home health aide
-                          services when coupled with nursing care or therapy
-                          within the home health care plan, but does not cover
-                          home health aides as a standalone service.
+                          eligibility criteria. Agencies such as DC Medical
+                          System can provide guidance on Medicare coverage for
+                          home health aides, including any associated
+                          out-of-pocket expenses, before initiating care. It's
+                          important to note that Medicare typically covers home
+                          health aide services when coupled with nursing care or
+                          therapy within the home health care plan, but does not
+                          cover home health aides as a standalone service.
                         </div>
                       </div>
                     </div>
-                    
                   </div>
                 </div>
               </div>

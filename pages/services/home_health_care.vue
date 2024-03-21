@@ -70,15 +70,15 @@
                   </p>
 
                   <p>
-                    At DC Medical System, our aim is to equip you or your family members
-                    with the necessary tools and support to manage your illness
-                    effectively, attain your health objectives, and embrace life
-                    to the fullest in accordance with your physician's
-                    recommendations and clinical requirements. Regardless of
-                    your preferred residence, our proficient team consisting of
-                    home health nurses, aides, and various therapists will
-                    conduct routine visits to deliver essential healthcare
-                    services.
+                    At DC Medical System, our aim is to equip you or your family
+                    members with the necessary tools and support to manage your
+                    illness effectively, attain your health objectives, and
+                    embrace life to the fullest in accordance with your
+                    physician's recommendations and clinical requirements.
+                    Regardless of your preferred residence, our proficient team
+                    consisting of home health nurses, aides, and various
+                    therapists will conduct routine visits to deliver essential
+                    healthcare services.
                   </p>
                   <p>
                     Collaborating closely with clients, our specialists empower
@@ -99,63 +99,276 @@
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text"
                             ><h6 class="process-title">
-                              1. Home Health Nurse.
+                              1. Skilled Nurse Care.
                             </h6>
+                            <p class="default-p reduce-margin">
+                              In-home nurses, licensed medical practitioners,
+                              deliver healthcare services within residences.
+                              These professionals, often registered nurses (RNs)
+                              or licensed practical nurses (LPNs), offer
+                              periodic skilled nursing care in a home setting.
+                            </p>
                             <p class="default-p">
-                              Our expert team conducts a comprehensive
-                              assessment to understand your individual needs,
-                              challenges, and objectives. We assess your mental
-                              health status, collect pertinent information, and
-                              formulate a thorough care plan personalized to
-                              meet your specific requirements.
+                              Home health nurses primarily attend to elderly
+                              individuals who qualify for home health services.
+                              They are also adept at assisting individuals
+                              dealing with chronic illnesses, medical
+                              conditions, or cognitive impairments. Intermittent
+                              home nursing support may be provided to aid in
+                              recovery, tailored to individual needs and
+                              prescribed by a physician.
                             </p>
                           </span>
                         </li>
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text"
-                            ><h6 class="process-title">
-                              2. Personalized Treatment Plan.
-                            </h6>
+                            ><h6 class="process-title">2. Physical Therapy.</h6>
+                            <p class="default-p reduce-margin">
+                              Physical therapy is a form of treatment intended
+                              to alleviate discomfort and enhance individuals'
+                              mobility and functional capabilities.
+                            </p>
                             <p class="default-p">
-                              Based on the assessment that we will conduct on
-                              our patients, we will create a personalized
-                              treatment plan that integrates evidence-based
-                              interventions and related therapeutic approaches.
-                              The plan will be designed to address patients'
-                              behavioral health concerns and assist them in
-                              improving their mental health conditions.
+                              Our physical therapists and physical therapy
+                              assistants provide assistance within the
+                              convenience of your home, aiding in improved
+                              mobility. Your personalized care plan is tailored
+                              to your specific requirements and prescribed by
+                              your physician. Tailored for seniors, physical
+                              therapy aims to either restore typical mobility or
+                              sustain the highest level of functionality
+                              achievable, facilitating engagement in daily
+                              activities and hobbies.
                             </p>
                           </span>
                         </li>
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text">
                             <h6 class="process-title">
-                              3. In-Home Support and Care.
+                              3. Occupational Therapy.
                             </h6>
+                            <p class="default-p reduce-margin">
+                              Occupational therapists and their assistants
+                              support individuals in accomplishing necessary and
+                              desired tasks, promoting recovery or prolonged
+                              independent living.
+                            </p>
+
+                            <p class="default-p reduce-margin">
+                              Through tailored activities and adaptive aids,
+                              you'll acquire enhanced proficiency in completing
+                              household chores and personal grooming tasks such
+                              as bathing. Additionally, strategies for enhancing
+                              home safety and coping with functional loss
+                              stemming from illness or injury will be imparted.
+                              The occupational therapist working within your
+                              home healthcare team will offer guidance and
+                              advocate for your needs.
+                            </p>
+
                             <p class="default-p">
-                              We have an experienced team of behavioral health
-                              professionals who deliver in-home care and support
-                              at your doorstep. Services offered include therapy
-                              sessions, medication management, and other needed
-                              health interventions. They will certify that you
-                              are comfortable and receive the necessary care
-                              that you require.
+                              Occupational therapists are skilled professionals
+                              dedicated to assisting individuals in mastering
+                              self-care abilities, surmounting physical hurdles,
+                              and addressing emotional and social concerns.
+                              Within DC Medical System, they possess specialized
+                              expertise acquired through approved occupational
+                              therapy programs leading to bachelor's, master's,
+                              or doctoral degrees in the field. Occupational
+                              therapy assistants hold either associate's or
+                              bachelor's degrees. Both occupational therapists
+                              and assistants are licensed by the state and
+                              accredited by the National Board for Certification
+                              in Occupational Therapy.
+                            </p>
+                          </span>
+                        </li>
+                        <li class="list-group-item">
+                          <span class="pbmit-icon-list-text">
+                            <h6 class="process-title">4.Speech Therapy.</h6>
+                            <p class="default-p reduce-margin">
+                              Speech therapy for adults encompasses evaluating
+                              and addressing challenges related to swallowing,
+                              communication, cognition (including thinking and
+                              comprehension), as well as language and speech
+                              impairments.
+                            </p>
+
+                            <p class="default-p reduce-margin">
+                              If you're encountering challenges in any of these
+                              areas and meet the criteria for home health
+                              services, there's no need to endure these
+                              difficulties alone. DC Medical System speech
+                              therapists collaborate with you, your caregivers,
+                              and your physician to devise a personalized
+                              treatment regimen. You'll receive encouragement,
+                              assistance, and resources to effectively address
+                              your condition within the safety and convenience
+                              of your home.
+                            </p>
+
+                            <p class="default-p reduce-margin">
+                              Speech therapy is administered by professionals
+                              known as speech-language pathologists (SLPs), or
+                              speech therapists, who possess extensive education
+                              and training to provide these specialized
+                              services. All DC Medical System speech therapists
+                              hold certification from the American
+                              Speech-Language-Hearing Association.
+                            </p>
+
+                            <p class="default-p">
+                              With home health speech therapy, a speech
+                              therapist visits your residence, whether it's your
+                              own home, a family member's residence, a group
+                              home, or a senior living facility. Our therapists
+                              assist with recovery post-accident or surgery, as
+                              well as in managing acute or chronic illnesses.
+                              You'll also receive guidance on adopting healthy
+                              lifestyle practices and performing exercises
+                              independently to enhance cognitive abilities,
+                              communication skills, and swallowing functions.
                             </p>
                           </span>
                         </li>
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text">
                             <h6 class="process-title">
-                              4.Continuing Monitoring and Adjustments.
+                              5.Medical Social Work.
                             </h6>
+                            <p class="default-p reduce-margin">
+                              Medical social workers are adept professionals
+                              providing emotional assistance, advocacy, and
+                              access to resources for individuals coping with
+                              chronic illnesses or undergoing recovery from
+                              surgery, illness, or injury.
+                            </p>
+
+                            <p class="default-p reduce-margin">
+                              Medical social workers offer valuable guidance and
+                              aid in maneuvering through the intricacies often
+                              associated with illness or injury management. They
+                              tackle the social, financial, and emotional facets
+                              of recuperation to assist you in achieving your
+                              objectives.
+                            </p>
+
+                            <p class="default-p reduce-margin">
+                              Speech therapy is administered by professionals
+                              known as speech-language pathologists (SLPs), or
+                              speech therapists, who possess extensive education
+                              and training to provide these specialized
+                              services. All DC Medical System speech therapists
+                              hold certification from the American
+                              Speech-Language-Hearing Association.
+                            </p>
+
                             <p class="default-p">
-                              We will continually monitor your progress and make
-                              the needed changes to your treatment plan as
-                              required. Consistent check-ins, medical
-                              assessments, and cooperating with your healthcare
-                              team to guarantee that your healthcare remains
-                              aligned with your evolving necessities will also
-                              be centered on.
+                              For instance, social workers in home care settings
+                              may recognize unaddressed social requirements
+                              hindering your ability to manage your condition.
+                              These could encompass challenges in accessing
+                              transportation for medical visits, affording
+                              medications, or preparing nutritious meals.
+                              Furthermore, home health care social workers are
+                              equipped to assist patients grappling with
+                              symptoms of depression, anxiety, or other mental
+                              health concerns affecting their capacity to handle
+                              a chronic illness.
+                            </p>
+                          </span>
+                        </li>
+                        <li class="list-group-item">
+                          <span class="pbmit-icon-list-text">
+                            <h6 class="process-title">6.Wound Care.</h6>
+                            <p class="default-p reduce-margin">
+                              Home health wound care offers treatment for
+                              persistent and intricate wounds within the home
+                              environment, catering to patients who meet the
+                              criteria for home health services. Such care is
+                              commonly covered by Medicare, Medicaid, and
+                              certain private insurance policies for qualifying
+                              patients.
+                            </p>
+
+                            <p class="default-p">
+                              A group comprising nurses, social workers, home
+                              health aides, and physical, occupational, and
+                              speech therapists collaborates to manage wounds
+                              and tackle the root causes of underlying medical
+                              conditions that may lead to wounds. These services
+                              are delivered within the comfort of your own home,
+                              be it a residence, an apartment, a family member's
+                              home, or a senior living facility.
+                            </p>
+                          </span>
+                        </li>
+                        <li class="list-group-item">
+                          <span class="pbmit-icon-list-text">
+                            <h6 class="process-title">7.Specialty Program.</h6>
+                            <p class="default-p reduce-margin">
+                              Coping with a chronic health issue poses numerous
+                              challenges. Beyond grappling with emotions such as
+                              loss and anxiety, there's the ongoing task of
+                              managing care expenses and maneuvering through a
+                              convoluted healthcare system. It's common to find
+                              yourself with more uncertainties than solutions
+                              regarding the management of your chronic
+                              condition.
+                            </p>
+
+                            <p class="default-p">
+                              Rest assured, you're not alone in this journey.
+                              Statistics show that approximately 85% of older
+                              adults contend with at least one chronic illness,
+                              with 56% facing the challenge of managing two or
+                              more. Establishing a reliable support network can
+                              significantly alleviate the burden of living with
+                              a chronic disease, and we're here to be part of
+                              that support system for you. Our commitment to
+                              meeting your unique needs is reflected in our
+                              diverse range of specialty home health care
+                              programs.
+                            </p>
+                          </span>
+                        </li>
+                        <li class="list-group-item">
+                          <span class="pbmit-icon-list-text">
+                            <h6 class="process-title">
+                              8.Mental Health Home Care.
+                            </h6>
+                            <p class="default-p reduce-margin">
+                              Home-based mental health care caters to
+                              individuals grappling with mental health
+                              conditions like depression and anxiety. Termed as
+                              behavioral health home care or psychiatric home
+                              care, this specialized service integrates top-tier
+                              mental health support with the convenience and
+                              familiarity of one's own residence.
+                            </p>
+
+                            <p class="default-p reduce-margin">
+                              Psychiatric nurses undergo additional training
+                              beyond the standard curriculum mandated for
+                              registered nurses. Our team of psychiatric home
+                              care nurses fulfills various roles, serving as
+                              educators, advocates, and consultants within your
+                              healthcare team. Possessing not only assessment
+                              expertise but also patience, compassion, and
+                              extensive experience, our mental health nurses are
+                              dedicated to your well-being.
+                            </p>
+                            <p class="default-p">
+                              Working closely with you, your caregiver, and your
+                              physician, a psychiatric nurse collaborates to
+                              develop a personalized care plan tailored to your
+                              specific needs. We take the time to understand
+                              your challenges and requirements, pinpointing
+                              opportunities that promote safety and well-being
+                              within your home environment. Following an initial
+                              assessment, your mental health home care team will
+                              schedule visits according to your physician's
+                              directives.
                             </p>
                           </span>
                         </li>
@@ -166,7 +379,7 @@
                   <div class="row">
                     <div class="pbmit-heading animation-style2">
                       <h4 class="pbmit-title mb-3">
-                        Who Benefits from Our Behavioral In-home Care Services?
+                        Who Benefits from Our Home Health Care Services?
                       </h4>
                     </div>
                     <div class="col-md-12">
@@ -176,9 +389,8 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Individuals seeking to enhance their overall mental
-                            health and well-being within the comfort of their
-                            own homes.</span
+                            >Undergoing recovery following surgery,
+                            hospitalization, or illness.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -186,9 +398,7 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Individuals grappling with mental health conditions
-                            like depression, anxiety, bipolar disorder, or
-                            schizophrenia.</span
+                            >Have regular doctor or hospital appointments.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -196,8 +406,9 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Patients dealing with substance use disorders
-                            requiring counseling and support..</span
+                            >Are at heightened risk of severe illness from
+                            COVID-19, either due to age (65+) or the presence of
+                            an underlying medical condition.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -205,8 +416,8 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Older adults facing cognitive decline, dementia, or
-                            Alzheimer's disease.</span
+                            >Experience a chronic health condition such as heart
+                            disease, diabetes, kidney disease, or COPD.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -214,45 +425,8 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Children and adolescents encountering behavioral or
-                            emotional challenges.</span
-                          >
-                        </li>
-                        <li class="list-group-item">
-                          <span class="pbmit-icon-list-icon">
-                            <i aria-hidden="true" class="ti-check"></i>
-                          </span>
-                          <span class="pbmit-icon-list-text"
-                            >Individuals with developmental disabilities or
-                            intellectual impairments.</span
-                          >
-                        </li>
-                        <li class="list-group-item">
-                          <span class="pbmit-icon-list-icon">
-                            <i aria-hidden="true" class="ti-check"></i>
-                          </span>
-                          <span class="pbmit-icon-list-text"
-                            >Patients in the process of recuperating from
-                            traumatic events or post-traumatic stress disorder
-                            (PTSD).</span
-                          >
-                        </li>
-                        <li class="list-group-item">
-                          <span class="pbmit-icon-list-icon">
-                            <i aria-hidden="true" class="ti-check"></i>
-                          </span>
-                          <span class="pbmit-icon-list-text"
-                            >Those in need of assistance in managing stress,
-                            anger, or behavioral issues.</span
-                          >
-                        </li>
-                        <li class="list-group-item">
-                          <span class="pbmit-icon-list-icon">
-                            <i aria-hidden="true" class="ti-check"></i>
-                          </span>
-                          <span class="pbmit-icon-list-text"
-                            >Individuals with chronic pain or enduring chronic
-                            illnesses affecting their mental well-being.</span
+                            >Seek guidance and education for effective
+                            management of your condition.</span
                           >
                         </li>
                       </ul>
@@ -262,7 +436,7 @@
                   <div class="row pt-5">
                     <div class="pbmit-heading animation-style2">
                       <h4 class="pbmit-title mb-3">
-                        The Benefits of In-Home Behavioral Health
+                        The Benefits of Home Health Care
                       </h4>
                     </div>
                     <div class="col-md-12">
@@ -272,10 +446,9 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Allows individuals to receive mental health support
-                            in the familiar and comforting surroundings of their
-                            own home, reducing stress and promoting a sense of
-                            security..</span
+                            >Enhances patient comfort within the familiar
+                            surroundings of home, often resulting in quicker
+                            recovery times and reduced complications.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -283,9 +456,8 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Individuals grappling with mental health conditions
-                            like depression, anxiety, bipolar disorder, or
-                            schizophrenia.</span
+                            >Provides assistance and support to caregivers and
+                            family members.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -293,9 +465,8 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Offer personalized care plans tailored to
-                            individual needs, ensuring that interventions are
-                            specific and effective for each person.</span
+                            >Utilizes an interdisciplinary approach, granting
+                            access to a wide array of healthcare experts.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -303,10 +474,8 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >Being at home enables greater involvement of family
-                            members in the care process, fostering a supportive
-                            environment that can enhance the individual's
-                            overall well-being.</span
+                            >Develops personalized care plans meticulously
+                            crafted to meet individual needs.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -314,10 +483,8 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >In-home care helps minimize the stigma associated
-                            with seeking mental health support by providing
-                            discreet and private assistance within the confines
-                            of one's residence.</span
+                            >Implements scientifically proven clinical methods
+                            to ensure top-notch quality care.</span
                           >
                         </li>
                         <li class="list-group-item">
@@ -325,42 +492,8 @@
                             <i aria-hidden="true" class="ti-check"></i>
                           </span>
                           <span class="pbmit-icon-list-text"
-                            >The flexibility of scheduling in-home sessions
-                            makes it more convenient for individuals to receive
-                            the care they need, accommodating diverse lifestyles
-                            and preferences.</span
-                          >
-                        </li>
-                        <li class="list-group-item">
-                          <span class="pbmit-icon-list-icon">
-                            <i aria-hidden="true" class="ti-check"></i>
-                          </span>
-                          <span class="pbmit-icon-list-text"
-                            >Ensure there is continuity of care by maintaining
-                            consistent support from the same professionals,
-                            contributing to a stable and trusting therapeutic
-                            relationship.</span
-                          >
-                        </li>
-                        <li class="list-group-item">
-                          <span class="pbmit-icon-list-icon">
-                            <i aria-hidden="true" class="ti-check"></i>
-                          </span>
-                          <span class="pbmit-icon-list-text"
-                            >Allows for interventions to be adapted to the
-                            individual's immediate surroundings, making
-                            strategies and coping mechanisms more practical and
-                            applicable to daily life.</span
-                          >
-                        </li>
-                        <li class="list-group-item">
-                          <span class="pbmit-icon-list-icon">
-                            <i aria-hidden="true" class="ti-check"></i>
-                          </span>
-                          <span class="pbmit-icon-list-text"
-                            >It allows individuals to be empowered and in
-                            control of their mental health journey, contributing
-                            to a sense of independence and self-efficacy.</span
+                            >Minimizes unnecessary hospital visits through
+                            effective home-based care.</span
                           >
                         </li>
                       </ul>
@@ -372,14 +505,6 @@
                   <div class="pbmit-heading animation-style2">
                     <h3 class="pbmit-title mb-3">Frequently asked questions</h3>
                   </div>
-                  <p>
-                    We strive to offer clarity and guidance, covering everything
-                    from understanding the nature of these services to accessing
-                    them. Whether you're in search of therapy, counseling, or
-                    assistance with mental health challenges, our commitment is
-                    to address your concerns and assist you in making
-                    well-informed decisions regarding your care.
-                  </p>
                   <div class="accordion" id="accordionExample1">
                     <div class="accordion-item active" id="headingOne1">
                       <h2 class="accordion-header">
@@ -403,8 +528,7 @@
                           </span>
                           <span class="pbmit-accordion-title">
                             <span class="pbmit-global-color">01.</span>
-                            What types of therapies do you offer in behavioral
-                            in-home care?
+                            What is Home Health Care
                           </span>
                         </button>
                       </h2>
@@ -415,10 +539,13 @@
                         data-bs-parent="#accordionExample1"
                       >
                         <div class="accordion-body">
-                          Our behavioral in-home care incorporates various
-                          evidence-based therapies like cognitive-behavioral
-                          therapy (CBT), dialectical behavior therapy (DBT),
-                          family therapy, and mindfulness-based interventions.
+                          Home health care delivers proficient medical services
+                          in the comfort of your chosen residence. Our dedicated
+                          home health team collaborates closely with you, your
+                          loved ones, and your physician to facilitate your
+                          recovery from illness, surgery, or injury, empowering
+                          you to regain independence and achieve optimal
+                          self-sufficiency.
                         </div>
                       </div>
                     </div>
@@ -444,7 +571,7 @@
                           </span>
                           <span class="pbmit-accordion-title">
                             <span class="pbmit-global-color">02.</span>
-                            What period does an in-home behavioral session last?
+                            How often will will my health care visits be?
                           </span>
                         </button>
                       </h2>
@@ -455,13 +582,12 @@
                         data-bs-parent="#accordionExample1"
                       >
                         <div class="accordion-body">
-                          The length of a session often contrasts depending on
-                          one's needs and the types of therapy that they
-                          require. In most instances, sessions range from
-                          between 45 minutes to an hour. Nevertheless, the
-                          length of a session is solely determined
-                          collaboratively between our behavioral health
-                          professionals and the client.
+                          The frequency and nature of home health visits are
+                          determined by your individualized care plan. Your
+                          physician may adjust this plan as required, modifying
+                          the number of visits or services offered to ensure you
+                          receive optimal home health care tailored to your
+                          specific needs.
                         </div>
                       </div>
                     </div>
@@ -487,8 +613,8 @@
                           </span>
                           <span class="pbmit-accordion-title">
                             <span class="pbmit-global-color">03.</span>
-                            What about my insurance? Will it cover behavioral
-                            in-home care services?
+                            Is hospitalization a requirement to recieve home
+                            heath care?
                           </span>
                         </button>
                       </h2>
@@ -499,12 +625,9 @@
                         data-bs-parent="#accordionExample1"
                       >
                         <div class="accordion-body">
-                          The extent of insurance coverage for behavioral health
-                          services may differ. It is advisable to get in touch
-                          with your insurance provider to explore the available
-                          coverage options for in-home mental health services.
-                          Additionally, our team is available to help you
-                          comprehend and navigate the insurance procedures.
+                          No, hospitalization is not mandatory for accessing
+                          home health care services. Numerous patients are
+                          referred to home health care by their physicians.
                         </div>
                       </div>
                     </div>
@@ -531,5 +654,9 @@ definePageMeta({
 <style scope>
 .default-p {
   color: #6e778c;
+}
+
+.reduce-margin {
+  margin-bottom: 10px;
 }
 </style>
