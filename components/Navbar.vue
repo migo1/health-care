@@ -43,8 +43,8 @@
                     <a href="#">Services</a>
                     <ul>
                       <li>
-                        <NuxtLink to="/services/chronic_care_management"
-                          >Chronic Care
+                        <NuxtLink to="/services/palliative_care"
+                          >Palliative Care
                         </NuxtLink>
                       </li>
                       <li>
@@ -58,8 +58,8 @@
                         >
                       </li>
                       <li>
-                        <NuxtLink to="/services/remote_patient_monitoring"
-                          >Remote Patient Monitoring</NuxtLink
+                        <NuxtLink to="/services/hospice_care"
+                          >Hospice Care</NuxtLink
                         >
                       </li>
                       <li>
