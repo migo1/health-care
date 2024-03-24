@@ -79,9 +79,9 @@
                 <h2 class="widget-title">Useful Link</h2>
                 <div class="textwidget">
                   <ul>
-                    <li><a href="our-history.html">Company</a></li>
-                    <li><a href="about-us.html">About</a></li>
-                    <li><a href="contact-us.html">Contact</a></li>
+                    <li><NuxtLink to="/">Company</NuxtLink></li>
+                    <li><NuxtLink to="/about_us">About</NuxtLink></li>
+                    <li><NuxtLink to="/contact_us">Contact</NuxtLink></li>
                   </ul>
                 </div>
               </div>
@@ -128,7 +128,8 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="pbmit-footer-copyright-text-area">
-                  Copyright © 2024 <a href="#">PBM Infotech</a>
+                  Copyright © 2024
+                   <!-- <a href="#">PBM Infotech</a> -->
                 </div>
               </div>
               <div class="col-md-6">
