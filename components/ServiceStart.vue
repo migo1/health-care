@@ -70,13 +70,13 @@
                     <div class="pbmit-content-inner-wrap">
                       <div class="pbmit-contant-box">
                         <div class="pbmit-serv-cat">
-                          <NuxtLink to="/services/chronic_care_management"
-                            >Chronic Care</NuxtLink
+                          <NuxtLink to="/services/palliative_care"
+                            >Palliative Care</NuxtLink
                           >
                         </div>
                         <h3 class="pbmit-service-title">
-                          <NuxtLink to="/services/chronic_care_management"
-                            >Chronic Care</NuxtLink
+                          <NuxtLink to="/services/palliative_care"
+                            >Palliative Care</NuxtLink
                           >
                         </h3>
                       </div>
@@ -87,9 +87,9 @@
                   </div>
                 </div>
                 <NuxtLink
-                  to="/services/chronic_care_management"
+                  to="/services/palliative_care"
                   class="pbmit-service-btn"
-                  title="Chronic Care"
+                  title="Palliative Care"
                 >
                   <span class="pbmit-button-icon-wrapper">
                     <span class="pbmit-button-icon">
@@ -100,7 +100,7 @@
               </div>
               <NuxtLink
                 class="pbmit-link"
-                to="/services/chronic_care_management"
+                to="/services/palliative_care"
               ></NuxtLink>
             </div>
           </article>

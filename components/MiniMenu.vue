@@ -6,8 +6,8 @@
                   <div class="all-post-list">
                     <ul>
                       <li class="">
-                        <NuxtLink to="/services/chronic_care_management"
-                          >Chronic Care
+                        <NuxtLink to="/services/palliative_care"
+                          >Palliative Care
                         </NuxtLink>
                       </li>
                       <li>
