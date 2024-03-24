@@ -174,13 +174,13 @@
                     <div class="pbmit-content-inner-wrap">
                       <div class="pbmit-contant-box">
                         <div class="pbmit-serv-cat">
-                          <NuxtLink to="remote_patient_monitoring" rel="tag"
-                            >Remote Patient Monitoring</NuxtLink
+                          <NuxtLink to="hospice_care" rel="tag"
+                            >Hospice Care</NuxtLink
                           >
                         </div>
                         <h3 class="pbmit-service-title">
-                          <NuxtLink to="remote_patient_monitoring"
-                            >Remote Patient Monitoring</NuxtLink
+                          <NuxtLink to="hospice_care"
+                            >Hospice Care</NuxtLink
                           >
                         </h3>
                       </div>
@@ -192,8 +192,8 @@
                 </div>
                 <NuxtLink
                   class="pbmit-service-btn"
-                  to="/services/remote_patient_monitoring"
-                  title="Remote Patient Monitoring"
+                  to="/services/hospice_care"
+                  title="Hospice Care"
                 >
                   <span class="pbmit-button-icon-wrapper">
                     <span class="pbmit-button-icon">
@@ -204,7 +204,7 @@
               </div>
               <NuxtLink
                 class="pbmit-link"
-                to="/services/remote_patient_monitoring"
+                to="/services/hospice_care"
               ></NuxtLink>
             </div>
           </article>

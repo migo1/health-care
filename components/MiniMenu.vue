@@ -21,8 +21,8 @@
                         >
                       </li>
                       <li>
-                        <NuxtLink to="/services/remote_patient_monitoring"
-                          >Remote Patient Monitoring</NuxtLink
+                        <NuxtLink to="/services/hospice_care"
+                          >Hospice Care</NuxtLink
                         >
                       </li>
                       <li>
