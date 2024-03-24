@@ -498,18 +498,10 @@
                   </div>
                 </div>
 
-                <!-- <div class="service-detail-accordion_box">
+                <div class="service-detail-accordion_box">
                   <div class="pbmit-heading animation-style2">
                     <h3 class="pbmit-title mb-3">Frequently asked questions</h3>
                   </div>
-                  <p>
-                    You can explore our FAQs to gain comprehensive insights into
-                    Palliative care management. You will also learn about the
-                    services that we offer, the eligibility criteria, and the
-                    roles of healthcare providers. This knowledge will enable
-                    you to make well-informed decisions that will be vital for
-                    your healthcare journey.
-                  </p>
                   <div class="accordion" id="accordionExample1">
                     <div class="accordion-item active" id="headingOne1">
                       <h2 class="accordion-header">
@@ -533,8 +525,8 @@
                           </span>
                           <span class="pbmit-accordion-title">
                             <span class="pbmit-global-color">01.</span>
-                            What are the objectives of Palliative care
-                            management?
+                            What is the duration of time one can spend receiving
+                            palliative care?
                           </span>
                         </button>
                       </h2>
@@ -545,11 +537,11 @@
                         data-bs-parent="#accordionExample1"
                       >
                         <div class="accordion-body">
-                          The main objectives of Palliative care management are
-                          the improvement of health outcomes among patients with
-                          Palliative conditions and the prevention of any
-                          further complications to enhance their quality of
-                          life.
+                          You can avail yourself of palliative care for as long
+                          as it is deemed medically essential. This could entail
+                          receiving care until transitioning to hospice or until
+                          your condition improves to the point where palliative
+                          services are no longer required.
                         </div>
                       </div>
                     </div>
@@ -575,8 +567,7 @@
                           </span>
                           <span class="pbmit-accordion-title">
                             <span class="pbmit-global-color">02.</span>
-                            What services do you offer in Palliative care
-                            management?
+                            Who is eligible for palliative care?
                           </span>
                         </button>
                       </h2>
@@ -587,11 +578,15 @@
                         data-bs-parent="#accordionExample1"
                       >
                         <div class="accordion-body">
-                          Palliative care management services vary. However,
-                          they can include consistent check-ins with our team of
-                          healthcare experts, medication management, education,
-                          care coordination, and access to these professionals
-                          for patients' urgent requests.
+                          Individuals confronting a significant illness can
+                          access palliative care upon receiving a referral and
+                          prescription from a physician. Commonly treated
+                          conditions include heart disease, cancer, respiratory
+                          illness, Alzheimer’s/dementia, kidney disease, chronic
+                          liver disease, and diabetes. According to the World
+                          Health Organization, pain and respiratory distress are
+                          the primary and most severe symptoms that palliative
+                          care aims to alleviate.
                         </div>
                       </div>
                     </div>
@@ -617,8 +612,7 @@
                           </span>
                           <span class="pbmit-accordion-title">
                             <span class="pbmit-global-color">03.</span>
-                            Does insurance cover your Palliative management
-                            services?
+                            What is the focus of palliative care?
                           </span>
                         </button>
                       </h2>
@@ -629,17 +623,19 @@
                         data-bs-parent="#accordionExample1"
                       >
                         <div class="accordion-body">
-                          Yes, our Palliative management services are covered by
-                          insurance like Medicare and other private insurance
-                          plans, and the reimbursement might vary. It is,
-                          therefore, crucial to seek advice from your insurance
-                          providers to know the scope of the coverage and
-                          respective costs.
+                          Receiving a serious diagnosis often brings about
+                          painful physical symptoms and emotional turmoil.
+                          Palliative care prioritizes assisting you in
+                          addressing these difficulties, aiming for enhanced
+                          peace of mind and quality of life for both you and
+                          your family. Some of the symptoms we can assist with
+                          include pain, breathlessness, nausea/vomiting,
+                          fatigue, and sleep disturbances.
                         </div>
                       </div>
                     </div>
                   </div>
-                </div> -->
+                </div>
               </div>
             </div>
             <MiniMenu />
