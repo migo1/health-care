@@ -16,6 +16,13 @@
   </div>
 </template>
 
-<script lang="ts" setup></script>
+<script setup lang="ts">
+const route = useRoute()
+
+useHead({
+  meta: [{ property: 'og:DC MEDICAL', content: `DC MEDICAL - ${route.meta.title}` }]
+})
+</script>
+
 
 <style></style>

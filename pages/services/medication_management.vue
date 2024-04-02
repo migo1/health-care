@@ -1,5 +1,7 @@
 <template>
   <div>
+    <Meta name="description" :content="description" />
+
     <!-- Title Bar -->
     <div class="pbmit-title-bar-wrapper">
       <div class="container">
@@ -395,6 +397,8 @@
 </template>
 
 <script lang="ts" setup>
+const description = ref("Medical Management Care.");
+
 definePageMeta({
   layout: "main",
 });

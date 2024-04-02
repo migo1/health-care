@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Meta name="description" :content="description" />
     <!-- Title Bar -->
     <div class="pbmit-title-bar-wrapper">
       <div class="container">
@@ -649,10 +650,18 @@
 </template>
 
 <script setup>
+const description = ref("Palliative Care.");
+useHead({
+
+  // titleTemplate: description ,
+});
 definePageMeta({
   layout: "main",
+  title: "Palliative Care",
 });
 </script>
+
+
 
 <style scope>
 .default-p {

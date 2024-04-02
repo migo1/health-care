@@ -46,7 +46,7 @@
                             Search our locations to find the one nearest you Get the
                             answers and assurance you deserve with accuracy you can trust.
                         </div>
-                        <a class="pbmit-btn pbmit-btn-outline" href="contact-us.html">
+                        <NuxtLink class="pbmit-btn pbmit-btn-outline" to="/contact_us">
                             <span class="pbmit-button-content-wrapper">
                                 <span class="pbmit-button-icon pbmit-align-icon-right">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="22.76" height="22.76"
@@ -64,7 +64,7 @@
                                 </span>
                                 <span class="pbmit-button-text">Get Directions</span>
                             </span>
-                        </a>
+                        </NuxtLink>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 position-relative">

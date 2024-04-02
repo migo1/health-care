@@ -17,7 +17,7 @@
           <span><i class="pbmit-base-icon-instagram"></i></span>
         </a>
       </div>
-     <HeroSlider />
+      <HeroSlider />
     </header>
     <!-- Header Main Area End Here -->
     <!-- page content -->
@@ -56,36 +56,102 @@ onMounted(() => {
     carouselElement.addClass("pbmit-element-viewtype-carousel-" + x);
 
     if (columns === 1) {
-      var responsive_items = [/* 1199 : */ columns, /* 991 : */ "1", /* 767 : */ "1", /* 575 : */ "1", /* 0 : */ "1"];
+      var responsive_items = [
+        /* 1199 : */ columns,
+        /* 991 : */ "1",
+        /* 767 : */ "1",
+        /* 575 : */ "1",
+        /* 0 : */ "1",
+      ];
     } else if (columns === 2) {
-      var responsive_items = [/* 1199 : */ columns, /* 991 : */ "2", /* 767 : */ "2", /* 575 : */ "2", /* 0 : */ "1"];
+      var responsive_items = [
+        /* 1199 : */ columns,
+        /* 991 : */ "2",
+        /* 767 : */ "2",
+        /* 575 : */ "2",
+        /* 0 : */ "1",
+      ];
     } else if (columns === 3) {
-      var responsive_items = [/* 1199 : */ columns, /* 991 : */ "2", /* 767 : */ "2", /* 575 : */ "1", /* 0 : */ "1"];
+      var responsive_items = [
+        /* 1199 : */ columns,
+        /* 991 : */ "2",
+        /* 767 : */ "2",
+        /* 575 : */ "1",
+        /* 0 : */ "1",
+      ];
     } else if (columns === 3 || columns == 3.6) {
-      var responsive_items = [/* 1199 : */ columns, /* 991 : */ "2.3", /* 767 : */ "2", /* 575 : */ "2", /* 0 : */ "1"];
+      var responsive_items = [
+        /* 1199 : */ columns,
+        /* 991 : */ "2.3",
+        /* 767 : */ "2",
+        /* 575 : */ "2",
+        /* 0 : */ "1",
+      ];
     } else if (columns === 4) {
-      var responsive_items = [/* 1199 : */ columns, /* 991 : */ "4", /* 767 : */ "3", /* 575 : */ "2", /* 0 : */ "1"];
+      var responsive_items = [
+        /* 1199 : */ columns,
+        /* 991 : */ "4",
+        /* 767 : */ "3",
+        /* 575 : */ "2",
+        /* 0 : */ "1",
+      ];
     } else if (columns === 5) {
-      var responsive_items = [/* 1199 : */ "5", /* 991 : */ "4", /* 767 : */ "3", /* 575 : */ "2", /* 0 : */ "1"];
+      var responsive_items = [
+        /* 1199 : */ "5",
+        /* 991 : */ "4",
+        /* 767 : */ "3",
+        /* 575 : */ "2",
+        /* 0 : */ "1",
+      ];
     } else if (columns === 6) {
-      var responsive_items = [/* 1199 : */ "6", /* 991 : */ "4", /* 767 : */ "3", /* 575 : */ "2", /* 0 : */ "1"];
+      var responsive_items = [
+        /* 1199 : */ "6",
+        /* 991 : */ "4",
+        /* 767 : */ "3",
+        /* 575 : */ "2",
+        /* 0 : */ "1",
+      ];
     } else {
-      var responsive_items = [/* 1199 : */ "3", /* 991 : */ "3", /* 767 : */ "2", /* 575 : */ "2", /* 0 : */ "1"];
+      var responsive_items = [
+        /* 1199 : */ "3",
+        /* 991 : */ "3",
+        /* 767 : */ "2",
+        /* 575 : */ "2",
+        /* 0 : */ "1",
+      ];
     }
 
     if (val_dots === true) {
-      carouselElement.append('<div class="swiper-pagination swiper-pagination"></div>');
+      carouselElement.append(
+        '<div class="swiper-pagination swiper-pagination"></div>'
+      );
     }
 
     if (val_nav === true) {
       if (!nav_arrow) {
         carouselElement.append('<div class="swiper-buttons"></div>');
-        carouselElement.find(".swiper-buttons").append('<div class="swiper-button-next swiper-button-next-' + x + '"></div>');
-        carouselElement.find(".swiper-buttons").append('<div class="swiper-button-prev swiper-button-prev-' + x + '"></div>');
+        carouselElement
+          .find(".swiper-buttons")
+          .append(
+            '<div class="swiper-button-next swiper-button-next-' +
+              x +
+              '"></div>'
+          );
+        carouselElement
+          .find(".swiper-buttons")
+          .append(
+            '<div class="swiper-button-prev swiper-button-prev-' +
+              x +
+              '"></div>'
+          );
       } else {
         $("." + nav_arrow).append('<div class="swiper-buttons"></div>');
-        $("." + nav_arrow).append('<div class="swiper-button-next swiper-button-next-' + x + '"></div>');
-        $("." + nav_arrow).append('<div class="swiper-button-prev swiper-button-prev-' + x + '"></div>');
+        $("." + nav_arrow).append(
+          '<div class="swiper-button-next swiper-button-next-' + x + '"></div>'
+        );
+        $("." + nav_arrow).append(
+          '<div class="swiper-button-prev swiper-button-prev-' + x + '"></div>'
+        );
       }
     }
 
@@ -116,7 +182,10 @@ onMounted(() => {
     }
 
     var margin_val = 30;
-    if ($(carouselElement).data("margin") !== "" || $(carouselElement).data("margin") === "0") {
+    if (
+      $(carouselElement).data("margin") !== "" ||
+      $(carouselElement).data("margin") === "0"
+    ) {
       margin_val = $(carouselElement).data("margin");
     }
 

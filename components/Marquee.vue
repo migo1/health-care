@@ -6,8 +6,8 @@
           <div class="swiper-slide">
             <article class="pbmit-marquee-effect-style-1">
               <div class="pbmit-tag-wrapper">
-                <h2 class="pbmit-element-title" data-text="Chronic Care">
-                  Chronic Care
+                <h2 class="pbmit-element-title" data-text="Home Health Aide">
+                  Home Health Aide
                 </h2>
               </div>
             </article>
@@ -15,8 +15,8 @@
           <div class="swiper-slide">
             <article class="pbmit-marquee-effect-style-1">
               <div class="pbmit-tag-wrapper">
-                <h2 class="pbmit-element-title" data-text="In-Home Services">
-                  In-Home Services
+                <h2 class="pbmit-element-title" data-text="Home Health Care">
+                  Home Health Care
                 </h2>
               </div>
             </article>
@@ -24,8 +24,8 @@
           <div class="swiper-slide">
             <article class="pbmit-marquee-effect-style-1">
               <div class="pbmit-tag-wrapper">
-                <h2 class="pbmit-element-title" data-text="Telemedics Visits">
-                  Telemedics Visits
+                <h2 class="pbmit-element-title" data-text="Hospice Care">
+                  Hospice Care
                 </h2>
               </div>
             </article>
@@ -35,9 +35,9 @@
               <div class="pbmit-tag-wrapper">
                 <h2
                   class="pbmit-element-title"
-                  data-text="Remote Patient Monitoring"
+                  data-text="Palliative Care"
                 >
-                  Remote Patient Monitoring
+                  Palliative Care
                 </h2>
               </div>
             </article>
