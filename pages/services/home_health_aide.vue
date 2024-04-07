@@ -90,6 +90,16 @@
                               1. Your physician prescribes home healthcare
                               services for you.
                             </h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/2_crop.jpeg"
+                                  class="img-fluid desc-img"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+
                             <p class="default-p">
                               To assess your suitability for home healthcare,
                               your physician will conduct a thorough assessment
@@ -109,6 +119,15 @@
                               2. You are classified as "homebound," meaning you
                               are primarily restricted to your residence.
                             </h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/3_crop.jpeg"
+                                  class="img-fluid desc-img"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
                             <p class="default-p">
                               To qualify for home health services, you must meet
                               Medicare's homebound criteria, which means you
@@ -134,6 +153,15 @@
                               3. You are receiving care from a home healthcare
                               agency that has been certified by Medicare.
                             </h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/5_crop.jpeg"
+                                  class="img-fluid desc-img"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
                             <p class="default-p">
                               You are being cared for by a home health care
                               agency certified by Medicare. These agencies must
@@ -413,5 +441,13 @@ definePageMeta({
 
 .external-link {
   text-decoration: underline;
+}
+
+.desc-img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border-radius: 10px;
 }
 </style>

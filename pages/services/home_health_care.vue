@@ -103,6 +103,15 @@
                             ><h6 class="process-title">
                               1. Skilled Nurse Care.
                             </h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/6.png"
+                                  class="img-fluid desc-img"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
                             <p class="default-p reduce-margin">
                               In-home nurses, licensed medical practitioners,
                               deliver healthcare services within residences.
@@ -125,12 +134,20 @@
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text"
                             ><h6 class="process-title">2. Physical Therapy.</h6>
-                            <p class="default-p reduce-margin">
-                              Physical therapy is a form of treatment intended
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/physio.jpg"
+                                  class="img-fluid desc-img"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+
+                            <p class="default-p">
+                             Physical therapy is a form of treatment intended
                               to alleviate discomfort and enhance individuals'
                               mobility and functional capabilities.
-                            </p>
-                            <p class="default-p">
                               Our physical therapists and physical therapy
                               assistants provide assistance within the
                               convenience of your home, aiding in improved
