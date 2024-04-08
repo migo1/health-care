@@ -20,7 +20,7 @@
 const route = useRoute()
 
 useHead({
-  meta: [{ property: 'og:DC MEDICAL', content: `DC MEDICAL - ${route.meta.title}` }]
+  meta: [{ property: 'og:dcmedicalsystem', content: `dcmedicalsystem - ${route.meta.title}` }]
 })
 </script>
 
