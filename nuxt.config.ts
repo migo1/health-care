@@ -30,7 +30,10 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ["@nuxtjs/seo"],
+  modules: ["@nuxtjs/seo", "nuxt-gtag"],
+  gtag: {
+    id: 'G-ZBVQG6MT3P'
+  },
   site: {
     url: 'https://www.dcmedicalsystem.com',
     name: 'dcmedicalsystem',

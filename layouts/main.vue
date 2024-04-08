@@ -17,12 +17,36 @@
 </template>
 
 <script setup lang="ts">
-const route = useRoute()
+const route = useRoute();
 
 useHead({
-  meta: [{ property: 'og:dcmedicalsystem', content: `dcmedicalsystem - ${route.meta.title}` }]
-})
-</script>
+  meta: [
+    {
+      property: "og:dcmedicalsystem",
+      content: `dcmedicalsystem - ${route.meta.title}`,
+    },
+  ],
+});
 
+useHead({
+  script: [
+    {
+      src: "https://www.googletagmanager.com/gtag/js?id=G-ZBVQG6MT3P",
+      // valid options are: 'head' | 'bodyClose' | 'bodyOpen'
+      tagPosition: "bodyClose",
+    },
+  ],
+});
+
+// onMounted(() => {
+//   window.dataLayer = window.dataLayer || [];
+//   function gtag() {
+//     dataLayer.push(arguments);
+//   }
+//   gtag("js", new Date());
+
+//   gtag("config", "G-ZBVQG6MT3P");
+// });
+</script>
 
 <style></style>
