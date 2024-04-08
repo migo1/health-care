@@ -32,7 +32,7 @@ export default defineNuxtConfig({
 
   modules: ["@nuxtjs/seo"],
   site: {
-    url: 'https://www.dcmedicalsystem.com/',
+    url: 'https://www.dcmedicalsystem.com',
     name: 'dcmedicalsystem',
     description: 'dc medical system healthcare',
     defaultLocale: 'en',
