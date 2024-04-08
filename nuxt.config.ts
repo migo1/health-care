@@ -36,7 +36,7 @@ export default defineNuxtConfig({
   },
   site: {
     url: 'https://www.dcmedicalsystem.com',
-    name: 'dcmedicalsystem',
+    name: 'dc medical system',
     description: 'dc medical system healthcare',
     defaultLocale: 'en',
   }
