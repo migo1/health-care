@@ -60,9 +60,9 @@
                   <div class="pbmit-featured-img-wrapper">
                     <div class="pbmit-featured-wrapper">
                       <img
-                        src="/images/services/service1.jpg"
+                        src="/images/services/palliative.jpg"
                         class="img-fluid service-img"
-                        alt=""
+                        alt="palliative care image"
                       />
                     </div>
                   </div>
@@ -111,9 +111,9 @@
                   <div class="pbmit-featured-img-wrapper">
                     <div class="pbmit-featured-wrapper">
                       <img
-                        src="/images/services/service2.jpg"
+                        src="/images/services/home_health_care.jpg"
                         class="img-fluid service-img"
-                        alt=""
+                        alt="Home Health Care image"
                       />
                     </div>
                   </div>
@@ -164,9 +164,9 @@
                   <div class="pbmit-featured-img-wrapper">
                     <div class="pbmit-featured-wrapper">
                       <img
-                        src="/images/services/service3.jpg"
+                        src="/images/services/hospice_care.jpg"
                         class="img-fluid service-img"
-                        alt=""
+                        alt="Hospice Care image"
                       />
                     </div>
                   </div>
@@ -215,9 +215,9 @@
                   <div class="pbmit-featured-img-wrapper">
                     <div class="pbmit-featured-wrapper">
                       <img
-                        src="/images/services/service4.jpg"
+                        src="/images/services/medication_management.jpg"
                         class="img-fluid service-img"
-                        alt=""
+                        alt="Medication Management image"
                       />
                     </div>
                   </div>
@@ -268,9 +268,9 @@
                   <div class="pbmit-featured-img-wrapper">
                     <div class="pbmit-featured-wrapper">
                       <img
-                        src="/images/services/service5.png"
+                        src="/images/services/home_health_aide.png"
                         class="img-fluid service-img"
-                        alt=""
+                        alt="Home Health Aide image"
                       />
                     </div>
                   </div>

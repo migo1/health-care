@@ -242,4 +242,10 @@ onMounted(() => {
   });
 });
 </script>
-<style></style>
+<style>
+a {
+  transition: all 0.5s ease-out 0s;
+  color: #031b4e;
+  text-decoration: none;
+}
+</style>

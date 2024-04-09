@@ -38,15 +38,12 @@ useHead({
   ],
 });
 
-// onMounted(() => {
-//   window.dataLayer = window.dataLayer || [];
-//   function gtag() {
-//     dataLayer.push(arguments);
-//   }
-//   gtag("js", new Date());
-
-//   gtag("config", "G-ZBVQG6MT3P");
-// });
 </script>
 
-<style></style>
+<style>
+a {
+  transition: all 0.5s ease-out 0s;
+  color: #031b4e;
+  text-decoration: none;
+}
+</style>

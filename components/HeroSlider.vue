@@ -21,7 +21,7 @@
                                             <strong>Experience</strong>
                                         </h2>
                                         <div class="pbmit-button transform-bottom transform-delay-3">
-                                            <a class="pbmit-btn pbmit-btn-outline" href="about-us.html">
+                                            <NuxtLink class="pbmit-btn pbmit-btn-outline" to="/about_us">
                                                 <span class="pbmit-button-content-wrapper">
                                                     <span class="pbmit-button-icon pbmit-align-icon-right">
                                                         <svg xmlns="http://www.w3.org/2000/svg" width="22.76"
@@ -42,8 +42,8 @@
                                                     </span>
                                                     <span class="pbmit-button-text">read more</span>
                                                 </span>
-                                            </a>
-                                            <a class="pbmit-btn" href="contact-us.html">
+                                            </NuxtLink>
+                                            <NuxtLink class="pbmit-btn" to="/contact_us">
                                                 <span class="pbmit-button-content-wrapper">
                                                     <span class="pbmit-button-icon pbmit-align-icon-right">
                                                         <svg xmlns="http://www.w3.org/2000/svg" width="22.76"
@@ -64,7 +64,7 @@
                                                     </span>
                                                     <span class="pbmit-button-text">contact us</span>
                                                 </span>
-                                            </a>
+                                            </NuxtLink>
                                         </div>
                                     </div>
                                 </div>
@@ -90,7 +90,7 @@
                                             <strong>To Wellness</strong>
                                         </h2>
                                         <div class="pbmit-button transform-bottom transform-delay-3">
-                                            <a class="pbmit-btn pbmit-btn-outline" href="about-us.html">
+                                            <NuxtLink class="pbmit-btn pbmit-btn-outline" to="/about_us">
                                                 <span class="pbmit-button-content-wrapper">
                                                     <span class="pbmit-button-icon pbmit-align-icon-right">
                                                         <svg xmlns="http://www.w3.org/2000/svg" width="22.76"
@@ -111,8 +111,8 @@
                                                     </span>
                                                     <span class="pbmit-button-text">read more</span>
                                                 </span>
-                                            </a>
-                                            <a class="pbmit-btn" href="contact-us.html">
+                                            </NuxtLink>
+                                            <NuxtLink class="pbmit-btn" to="/contact_us">
                                                 <span class="pbmit-button-content-wrapper">
                                                     <span class="pbmit-button-icon pbmit-align-icon-right">
                                                         <svg xmlns="http://www.w3.org/2000/svg" width="22.76"
@@ -133,7 +133,7 @@
                                                     </span>
                                                     <span class="pbmit-button-text">contact us</span>
                                                 </span>
-                                            </a>
+                                            </NuxtLink>
                                         </div>
                                     </div>
                                 </div>
@@ -159,7 +159,7 @@
                                             <strong>Healthcare</strong>
                                         </h2>
                                         <div class="pbmit-button transform-bottom transform-delay-3">
-                                            <a class="pbmit-btn pbmit-btn-outline" href="about-us.html">
+                                            <NuxtLink class="pbmit-btn pbmit-btn-outline" to="/about_us">
                                                 <span class="pbmit-button-content-wrapper">
                                                     <span class="pbmit-button-icon pbmit-align-icon-right">
                                                         <svg xmlns="http://www.w3.org/2000/svg" width="22.76"
@@ -180,8 +180,8 @@
                                                     </span>
                                                     <span class="pbmit-button-text">read more</span>
                                                 </span>
-                                            </a>
-                                            <a class="pbmit-btn" href="contact-us.html">
+                                            </NuxtLink>
+                                            <NuxtLink class="pbmit-btn" to="/contact_us">
                                                 <span class="pbmit-button-content-wrapper">
                                                     <span class="pbmit-button-icon pbmit-align-icon-right">
                                                         <svg xmlns="http://www.w3.org/2000/svg" width="22.76"
@@ -202,7 +202,7 @@
                                                     </span>
                                                     <span class="pbmit-button-text">contact us</span>
                                                 </span>
-                                            </a>
+                                            </NuxtLink>
                                         </div>
                                     </div>
                                 </div>
@@ -216,5 +216,6 @@
 </template>
 
 <script lang="ts" setup>
+
 
 </script>

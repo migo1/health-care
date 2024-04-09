@@ -64,7 +64,7 @@
                   <img
                     src="/images/homepage-2/tab-img-01.jpg"
                     class="img-fluid"
-                    alt=""
+                    alt="tab-img-01"
                   />
                 </div>
                 <div class="col-md-12 col-xl-6 pbmit-tab-list">
@@ -85,7 +85,7 @@
                   <img
                     src="/images/homepage-2/tab-img-02.jpg"
                     class="img-fluid"
-                    alt=""
+                    alt="tab-img-02"
                   />
                 </div>
                 <div class="col-md-12 col-xl-6 pbmit-tab-list">
@@ -106,7 +106,7 @@
                   <img
                     src="/images/homepage-2/tab-img-03.jpg"
                     class="img-fluid"
-                    alt=""
+                    alt="tab-img-03"
                   />
                 </div>
                 <div class="col-md-12 col-xl-6 pbmit-tab-list">
@@ -128,7 +128,7 @@
                   <img
                     src="/images/homepage-2/tab-img-04.jpg"
                     class="img-fluid"
-                    alt=""
+                    alt="tab-img-04"
                   />
                 </div>
                 <div class="col-md-12 col-xl-6 pbmit-tab-list">

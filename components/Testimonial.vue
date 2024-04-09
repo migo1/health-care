@@ -48,7 +48,7 @@
                           <img
                             src="/images/homepage-2/testimonial/testimonial-01.jpg"
                             class="img-fluid"
-                            alt=""
+                            alt="testimonial-01"
                           />
                         </div>
                       </div>
@@ -93,7 +93,7 @@
                           <img
                             src="/images/homepage-2/testimonial/testimonial-02.jpg"
                             class="img-fluid"
-                            alt=""
+                            alt="testimonial-02"
                           />
                         </div>
                       </div>
@@ -138,7 +138,7 @@
                           <img
                             src="/images/homepage-2/testimonial/testimonial-03.jpg"
                             class="img-fluid"
-                            alt=""
+                            alt="testimonial-03"
                           />
                         </div>
                       </div>
@@ -182,7 +182,7 @@
                           <img
                             src="/images/homepage-2/testimonial/testimonial-04.jpg"
                             class="img-fluid"
-                            alt=""
+                            alt="testimonial-04"
                           />
                         </div>
                       </div>
@@ -226,7 +226,7 @@
                           <img
                             src="/images/homepage-2/testimonial/testimonial-05.jpg"
                             class="img-fluid"
-                            alt=""
+                            alt="testimonial-05"
                           />
                         </div>
                       </div>
@@ -270,7 +270,7 @@
                           <img
                             src="/images/homepage-2/testimonial/testimonial-06.jpg"
                             class="img-fluid"
-                            alt=""
+                            alt="testimonial-06"
                           />
                         </div>
                       </div>
