@@ -14,6 +14,7 @@
     "gsap": "^3.12.5",
     "jquery": "^3.7.1",
     "nuxt": "^3.10.3",
+    "nuxt-vercel-analytics": "^1.0.2",
     "vue": "^3.4.19",
     "vue-router": "^4.3.0"
   },

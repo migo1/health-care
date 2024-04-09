@@ -30,9 +30,18 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ["@nuxtjs/seo", "nuxt-gtag"],
+  modules: ["@nuxtjs/seo", "nuxt-gtag", "nuxt-vercel-analytics"],
   gtag: {
     id: 'G-ZBVQG6MT3P'
+  },
+  vercelAnalytics: {
+    mode: "auto",
+    debug: true,
+    beforeSend: (event) => {
+      if (event.url.includes("/private")) return null;
+
+      return event;
+    },
   },
   site: {
     url: 'https://www.dcmedicalsystem.com',
