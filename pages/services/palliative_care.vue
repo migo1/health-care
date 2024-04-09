@@ -1,6 +1,7 @@
 <template>
   <div>
     <Meta name="description" :content="description" />
+    <!-- <Meta property="og:image" content="/_nuxt/images/service_details/palliative_care.jpg" /> -->
     <!-- Title Bar -->
     <div class="pbmit-title-bar-wrapper">
       <div class="container">
@@ -660,8 +661,8 @@ definePageMeta({
   title: "Palliative Care",
 });
 useSeoMeta({
-  keywords: "Palliative Care",
-  ogImage: "/images/service_details/palliative_care.jpg",
+  keywords: "dc medical system Palliative Care, dcmedicalsystem Palliative Care, Palliative Care",
+  ogImage: "/_nuxt/images/service_details/palliative_care.jpg",
 });
 </script>
 
