@@ -204,7 +204,7 @@ body {
     top: 0;
     left: 0;
     position: absolute;
-	background-image: url(../images/homepage-2/bg/bg-img-01.png);
+	/* background-image: url(../images/homepage-2/bg/bg-img-01.png); */
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -278,7 +278,7 @@ body {
 	padding-right: 70px;
 }
 .tab_section{
-	background-image: url(../images/homepage-2/bg/service-bg-pattern.png);
+	/* background-image: url(../images/homepage-2/bg/service-bg-pattern.png); */
 	background-position: top center;
     background-repeat: no-repeat;
 }
