@@ -428,9 +428,12 @@
 </template>
 
 <script lang="ts" setup>
-const description = ref("Home Health Aide.");
+const description = ref("A home health aide, commonly referred to as an HHA, is a valuable member of the healthcare team, possessing specialized training in providing essential care within the familiar environment of individuals' homes");
 definePageMeta({
   layout: "main",
+});
+useSeoMeta({
+  keywords: "dc medical system home health aide, dcmedicalsystem home health aide, home health aide",
 });
 </script>
 

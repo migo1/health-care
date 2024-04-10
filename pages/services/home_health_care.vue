@@ -139,25 +139,25 @@
                                 <img
                                   src="/healthcare-img/physio.jpg"
                                   class="img-fluid desc-img"
-                                  alt=""
+                                  alt=" physical therapy"
                                 />
                               </div>
                             </div>
 
                             <p class="default-p">
-                             Physical therapy is a form of treatment intended
+                              Physical therapy is a form of treatment intended
                               to alleviate discomfort and enhance individuals'
-                              mobility and functional capabilities.
-                              Our physical therapists and physical therapy
-                              assistants provide assistance within the
-                              convenience of your home, aiding in improved
-                              mobility. Your personalized care plan is tailored
-                              to your specific requirements and prescribed by
-                              your physician. Tailored for seniors, physical
-                              therapy aims to either restore typical mobility or
-                              sustain the highest level of functionality
-                              achievable, facilitating engagement in daily
-                              activities and hobbies.
+                              mobility and functional capabilities. Our physical
+                              therapists and physical therapy assistants provide
+                              assistance within the convenience of your home,
+                              aiding in improved mobility. Your personalized
+                              care plan is tailored to your specific
+                              requirements and prescribed by your physician.
+                              Tailored for seniors, physical therapy aims to
+                              either restore typical mobility or sustain the
+                              highest level of functionality achievable,
+                              facilitating engagement in daily activities and
+                              hobbies.
                             </p>
                           </span>
                         </li>
@@ -166,6 +166,15 @@
                             <h6 class="process-title">
                               3. Occupational Therapy.
                             </h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/occupational_therapy.jpg"
+                                  class="img-fluid desc-img"
+                                  alt="occupational therapy"
+                                />
+                              </div>
+                            </div>
                             <p class="default-p reduce-margin">
                               Occupational therapists and their assistants
                               support individuals in accomplishing necessary and
@@ -205,6 +214,15 @@
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text">
                             <h6 class="process-title">4.Speech Therapy.</h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/speech_therapy.jpg"
+                                  class="img-fluid desc-img"
+                                  alt="speech therapy"
+                                />
+                              </div>
+                            </div>
                             <p class="default-p reduce-margin">
                               Speech therapy for adults encompasses evaluating
                               and addressing challenges related to swallowing,
@@ -255,6 +273,15 @@
                             <h6 class="process-title">
                               5.Medical Social Work.
                             </h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/medical_social_work.jpg"
+                                  class="img-fluid desc-img"
+                                  alt="medical social work"
+                                />
+                              </div>
+                            </div>
                             <p class="default-p reduce-margin">
                               Medical social workers are adept professionals
                               providing emotional assistance, advocacy, and
@@ -300,6 +327,15 @@
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text">
                             <h6 class="process-title">6.Wound Care.</h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/wound_care.jpg"
+                                  class="img-fluid desc-img"
+                                  alt="wound care"
+                                />
+                              </div>
+                            </div>
                             <p class="default-p reduce-margin">
                               Home health wound care offers treatment for
                               persistent and intricate wounds within the home
@@ -325,6 +361,15 @@
                         <li class="list-group-item">
                           <span class="pbmit-icon-list-text">
                             <h6 class="process-title">7.Specialty Program.</h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/specalty_program.jpeg"
+                                  class="img-fluid desc-img"
+                                  alt="Specialty Program image"
+                                />
+                              </div>
+                            </div>
                             <p class="default-p reduce-margin">
                               Coping with a chronic health issue poses numerous
                               challenges. Beyond grappling with emotions such as
@@ -356,6 +401,15 @@
                             <h6 class="process-title">
                               8.Mental Health Home Care.
                             </h6>
+                            <div class="pbmit-featured-img-wrapper">
+                              <div class="pbmit-featured-wrapper">
+                                <img
+                                  src="/healthcare-img/mental_homecare.jpeg"
+                                  class="img-fluid desc-img"
+                                  alt="mental homecare image"
+                                />
+                              </div>
+                            </div>
                             <p class="default-p reduce-margin">
                               Home-based mental health care caters to
                               individuals grappling with mental health
@@ -665,9 +719,13 @@
 </template>
 
 <script lang="ts" setup>
-const description = ref("Home Health Care.");
+const description = ref(" Home health care enables individuals recuperating from surgery, injury, or illness, coping with serious or chronic conditions, or facing multiple diagnoses to maintain a secure home environment and strive for independence.");
 definePageMeta({
   layout: "main",
+});
+
+useSeoMeta({
+  keywords: "dc medical system home health care, dcmedicalsystem home health care, home health care",
 });
 </script>
 
@@ -678,5 +736,13 @@ definePageMeta({
 
 .reduce-margin {
   margin-bottom: 10px;
+}
+
+.desc-img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border-radius: 10px;
 }
 </style>

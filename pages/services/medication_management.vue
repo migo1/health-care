@@ -53,7 +53,7 @@
               <div class="pbmit-entry-content">
                 <div class="pbmit-service_content">
                   <div class="pbmit-heading animation-style2">
-                    <h3 class="pbmit-title mb-3">Chronic Care Management</h3>
+                    <h3 class="pbmit-title mb-3">Primary Care Medication Management</h3>
                   </div>
                   <p class="pbmit-firstletter">
                     Effectively managing medication entails a comprehensive
@@ -397,10 +397,14 @@
 </template>
 
 <script lang="ts" setup>
-const description = ref("Medical Management Care.");
+const description = ref("Effectively managing medication entails a comprehensive process to ensure individuals use their prescribed medications safely and appropriately");
 
 definePageMeta({
   layout: "main",
+});
+
+useSeoMeta({
+  keywords: "dc medical system medical management, dcmedicalsystem medical management, medical management",
 });
 </script>
 

@@ -651,7 +651,7 @@
 </template>
 
 <script setup>
-const description = ref("Palliative Care.");
+const description = ref("When someone you care about is diagnosed with a severe illness affecting their quality of life, receiving palliative care in the comfort of home can be beneficial");
 useHead({
 
   // titleTemplate: description ,

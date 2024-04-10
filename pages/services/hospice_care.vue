@@ -540,10 +540,16 @@
 </template>
 
 <script setup>
-const description = ref("Hospice Care.");
+const description = ref(
+  " Hospice care is dedicated to providing comfort and improving the quality of life for individuals diagnosed with a terminal illness, with a prognosis of six months or less if the illness progresses naturally, as determined by a doctor's evaluation."
+);
 
 definePageMeta({
   layout: "main",
+});
+
+useSeoMeta({
+  keywords: "dc medical system hospice care, dcmedicalsystem hospice care, hospice care",
 });
 </script>
 

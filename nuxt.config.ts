@@ -49,7 +49,7 @@ export default defineNuxtConfig({
   site: {
     url: 'https://www.dcmedicalsystem.com',
     name: 'dc medical system',
-    description: 'dc medical system healthcare',
+    description: 'Explore DC Medical System Healthcare for comprehensive medical services and expert care. Our dedicated team ensures quality healthcare solutions tailored to your needs.',
     defaultLocale: 'en',
   }
 });
