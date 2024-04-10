@@ -23,7 +23,7 @@
               <aside class="widget widget_text">
                 <div class="textwidget">
                   <div class="pbmit-footer-logo">
-                    <img src="/images/medical-logo.png" alt="" />
+                    <img src="/images/medical-logo.png" alt="dc medical logo" />
                   </div>
                   <div class="pbmit-footer-text">
                     The healthcare arena there was a felt need of developing new

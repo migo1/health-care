@@ -47,7 +47,7 @@
                 <img
                   src="/images/service_details/service-d-2-1.jpg"
                   class="img-fluid w-100"
-                  alt=""
+                  alt="Hospice care image"
                 />
               </div>
               <div class="pbmit-entry-content">

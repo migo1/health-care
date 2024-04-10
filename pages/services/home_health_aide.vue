@@ -46,7 +46,7 @@
                 <img
                   src="/images/service_details/event-d-1-1.jpg"
                   class="img-fluid w-100"
-                  alt=""
+                  alt="Home Health Aide Services Image"
                 />
               </div>
               <div class="pbmit-entry-content">
@@ -95,7 +95,7 @@
                                 <img
                                   src="/healthcare-img/2_crop.jpeg"
                                   class="img-fluid desc-img"
-                                  alt=""
+                                  alt="physician prescribes home healthcare services image"
                                 />
                               </div>
                             </div>
@@ -124,7 +124,7 @@
                                 <img
                                   src="/healthcare-img/3_crop.jpeg"
                                   class="img-fluid desc-img"
-                                  alt=""
+                                  alt="homebound image"
                                 />
                               </div>
                             </div>
@@ -158,7 +158,7 @@
                                 <img
                                   src="/healthcare-img/5_crop.jpeg"
                                   class="img-fluid desc-img"
-                                  alt=""
+                                  alt="recieving care from a home healthcare agency image"
                                 />
                               </div>
                             </div>

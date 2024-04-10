@@ -47,7 +47,7 @@
                 <img
                   src="/images/service_details/service-d-5-1.jpg"
                   class="img-fluid w-100"
-                  alt=""
+                  alt="Home health care service image"
                 />
               </div>
               <div class="pbmit-entry-content">
@@ -108,7 +108,7 @@
                                 <img
                                   src="/healthcare-img/6.png"
                                   class="img-fluid desc-img"
-                                  alt=""
+                                  alt="skilled nurse image"
                                 />
                               </div>
                             </div>
