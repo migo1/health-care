@@ -129,7 +129,7 @@
               <div class="col-md-6">
                 <div class="pbmit-footer-copyright-text-area">
                   Copyright © 2024
-                   <!-- <a href="#">PBM Infotech</a> -->
+                   <a href="https://robertmigot.me/">Robert Migot</a>
                 </div>
               </div>
               <div class="col-md-6">
