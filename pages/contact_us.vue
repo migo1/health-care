@@ -49,8 +49,8 @@
                   <h2 class="pbmit-element-title">Mail us 24/7</h2>
                   <div class="pbmit-content-wrapper">
                     <div class="pbmit-heading-desc">
-                      no-reply@pbminfo.com <br />
-                      no-reply@pbmadmin.com
+                      no-reply@dcmedical.com <br />
+                      no-reply@dcmedcal.com
                     </div>
                   </div>
                 </div>
@@ -83,8 +83,8 @@
                   <h2 class="pbmit-element-title">Call us 24/7</h2>
                   <div class="pbmit-content-wrapper">
                     <div class="pbmit-heading-desc">
-                      Phone : (+55) 654 - 545 - 5418 <br />
-                      Mobile : (+01) 654 - 545 - 1235
+                      Phone :  1-202- 361-9660 <br />
+                      Mobile :  1-202- 361-9660
                     </div>
                   </div>
                 </div>
@@ -117,8 +117,8 @@
                   <h2 class="pbmit-element-title">Our Locations</h2>
                   <div class="pbmit-content-wrapper">
                     <div class="pbmit-heading-desc">
-                      4821 Ride Top, Anch St, Alaska <br />
-                      997998, USA main city.
+                      1746 V ST NW Washington DC  <br />
+                      20009, United States.
                     </div>
                   </div>
                 </div>

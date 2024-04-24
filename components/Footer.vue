@@ -111,11 +111,17 @@
             <div class="pbmit-footer-widget-col-4 col-md-6 col-lg-3">
               <aside class="widget">
                 <h2 class="widget-title">Our address</h2>
-                <div
+                  <div
                   class="pbmit-contact-widget-line pbmit-contact-widget-address"
                 >
-                  Old Westbury 256, New York <br />
-                  11201, United States
+                  1746 V ST NW Washington DC <br />
+                  20009, United States.
+                </div>
+                
+                 <div
+                  class="pbmit-contact-widget-line pbmit-contact-widget-address"
+                >
+                  1-202- 361-9660
                 </div>
               </aside>
             </div>
@@ -128,7 +134,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="pbmit-footer-copyright-text-area">
-                  Copyright © 2024
+                  <!-- Copyright © 2024 -->
                    <a href="https://robertmigot.me/">Robert Migot</a>
                 </div>
               </div>
@@ -138,7 +144,7 @@
                     <a href="#">Terms and conditions</a>
                   </li>
                   <li class="menu-item">
-                    <a href="#">Privacy policy</a>
+                    <a href="https://www.dcmedicalsystem.com/"> Copyright © 2024 dcmedicalsystem</a>
                   </li>
                 </ul>
               </div>
