@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       title: "dc medical system",
       link: [{ rel: "icon", type: "image/x-icon", href: "/images/dc_logo.png" }],
       meta: [
-        {name: "keywords", content: "dc medical system, dc medical system healthcare, dcmedicalsystem"},
+        { name: "keywords", content: "dc medical system, dc medical system healthcare, dcmedicalsystem" },
       ],
       script: [
         { src: "/js/jquery.min.js", tagPosition: "bodyClose" },
@@ -33,19 +33,32 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ["@nuxtjs/seo", "nuxt-gtag", "nuxt-vercel-analytics"],
+  modules: ['@nuxtjs/seo', 'nuxt-gtag', ['nuxt-mail', {
+    message: {
+      to: 'kratasrobert69@gmail.com',
+    },
+    smtp: {
+      host: "smtp.gmail.com",
+      port: 587,
+      auth: {
+        user: 'kratasrobert69@gmail.com',
+        pass: 'ztlfipiuayqfqqmb ',
+      },
+    },
+  }],
+  ],
   gtag: {
     id: 'G-ZBVQG6MT3P'
   },
-  vercelAnalytics: {
-    mode: "auto",
-    debug: true,
-    beforeSend: (event) => {
-      if (event.url.includes("/private")) return null;
+  // vercelAnalytics: {
+  //   mode: "auto",
+  //   debug: true,
+  //   beforeSend: (event) => {
+  //     if (event.url.includes("/private")) return null;
 
-      return event;
-    },
-  },
+  //     return event;
+  //   },
+  // },
   site: {
     url: 'https://www.dcmedicalsystem.com',
     name: 'dcmedicalsystem',
