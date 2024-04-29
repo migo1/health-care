@@ -133,7 +133,6 @@ const mail = useMail();
 const submitForm = async () => {
   if (isSubmitting.value) return;
 
-  // Check if any form field is empty
   if (
     !name.value ||
     !email.value ||
@@ -141,7 +140,6 @@ const submitForm = async () => {
     !date.value ||
     !message.value
   ) {
-    // Display an error message or take appropriate action
     return;
   }
 
@@ -178,10 +176,10 @@ const submitForm = async () => {
   date.value = "";
   message.value = "";
 
-    showNotification.value = true; // Show notification after submission
+    showNotification.value = true; 
 
   setTimeout(() => {
-    showNotification.value = false; // Hide notification after 2 seconds
+    showNotification.value = false; 
   }, 2000);
 
 
@@ -197,7 +195,7 @@ definePageMeta({
 });
 </script>
 
-<style>
+<style scoped>
 .pbmit-btn.clicked {
   background-color: #6e778c;
   cursor: not-allowed;

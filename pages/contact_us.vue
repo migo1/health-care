@@ -83,8 +83,8 @@
                   <h2 class="pbmit-element-title">Call us 24/7</h2>
                   <div class="pbmit-content-wrapper">
                     <div class="pbmit-heading-desc">
-                      Phone :  1-202- 361-9660 <br />
-                      Mobile :  1-202- 361-9660
+                      Phone : 1-202- 361-9660 <br />
+                      Mobile : 1-202- 361-9660
                     </div>
                   </div>
                 </div>
@@ -117,7 +117,7 @@
                   <h2 class="pbmit-element-title">Our Locations</h2>
                   <div class="pbmit-content-wrapper">
                     <div class="pbmit-heading-desc">
-                      1746 V ST NW Washington DC  <br />
+                      1746 V ST NW Washington DC <br />
                       20009, United States.
                     </div>
                   </div>
@@ -141,6 +141,9 @@
 
       <!-- Contact Form -->
       <section class="space-bottom">
+        <div v-if="showNotification" class="book-mail-notification">
+        <p>you've contacted DC MEDICAL SYSTEM successfully !</p>
+      </div>
         <div class="container">
           <div class="row g-0">
             <div class="col-md-12 col-xl-6">
@@ -156,9 +159,8 @@
                 </div>
                 <form
                   class="contact-form"
-                  method="post"
                   id="contact-form"
-                  action="https://xcare-demo.pbminfotech.com/html-demo/send.php"
+                  @submit.prevent="submitForm"
                 >
                   <div class="row">
                     <div class="col-md-6">
@@ -167,6 +169,7 @@
                         class="form-control"
                         placeholder="Your Name *"
                         name="name"
+                        v-model="name"
                         required
                       />
                     </div>
@@ -176,6 +179,7 @@
                         class="form-control"
                         placeholder="Your Email *"
                         name="email"
+                        v-model="email"
                         required
                       />
                     </div>
@@ -185,6 +189,7 @@
                         class="form-control"
                         placeholder="Your Phone *"
                         name="phone"
+                        v-model="phone"
                         required
                       />
                     </div>
@@ -194,6 +199,7 @@
                         class="form-control"
                         placeholder="Subject"
                         name="subject"
+                        v-model="subject"
                         required
                       />
                     </div>
@@ -204,11 +210,16 @@
                         rows="10"
                         class="form-control"
                         placeholder="Message"
+                        v-model="message"
                         required
                       ></textarea>
                     </div>
                     <div class="col-md-12">
-                      <button class="pbmit-btn">
+                      <button
+                        @click="submitForm"
+                        class="pbmit-btn"
+                        :class="{ clicked: isSubmitting }"
+                      >
                         <span class="pbmit-button-content-wrapper">
                           <span
                             class="pbmit-button-icon pbmit-align-icon-right"
@@ -256,20 +267,107 @@
         </div>
       </section>
       <!-- Contact Form End -->
-
-
     </div>
   </div>
 </template>
 
 <script lang="ts" setup>
+const name = ref("");
+const email = ref("");
+const phone = ref("");
+const subject = ref("");
+const message = ref("");
+const isSubmitting = ref(false);
+const showNotification = ref(false);
+
+const mail = useMail();
+
+const submitForm = async () => {
+  if (isSubmitting.value) return;
+
+  if (
+    !name.value ||
+    !email.value ||
+    !phone.value ||
+    !subject.value ||
+    !message.value
+  ) {
+    return;
+  }
+
+  isSubmitting.value = true;
+
+  const formData = {
+    name: name.value,
+    email: email.value,
+    phone: phone.value,
+    subject: subject.value,
+    message: message.value,
+  };
+
+  const submitButton = document.querySelector(".pbmit-btn .pbmit-button-text");
+  if (submitButton) {
+    submitButton.textContent = "Submitting .......";
+  }
+
+  await new Promise((resolve) => setTimeout(resolve, 2000));
+
+  mail.send({
+    subject: `${formData.subject}`,
+    html: `<h1>DC MEDICICAL CONTACT FORM</h1>
+          <p>Name: ${formData.name}</p>
+          <p>Email: ${formData.email}</p>
+          <p>Phone: ${formData.phone}</p>
+          <p>Message: ${formData.message}</p>`,
+  });
+
+  name.value = "";
+  email.value = "";
+  phone.value = "";
+  subject.value = "";
+  message.value = "";
+
+  showNotification.value = true;
+
+  setTimeout(() => {
+    showNotification.value = false;
+  }, 2000);
+
+  if (submitButton) {
+    submitButton.textContent = "Submit Now";
+  }
+
+  isSubmitting.value = false;
+};
 definePageMeta({
   layout: "main",
 });
 </script>
 
-<style>
+<style scoped>
 .space-bottom {
   padding-bottom: 100px;
+}
+
+.pbmit-btn.clicked {
+  background-color: #6e778c;
+  cursor: not-allowed;
+}
+
+.section-xl {
+  position: relative;
+}
+
+.book-mail-notification {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  right: 13px;
+  height: 45px;
+  position: absolute;
+  z-index: 100;
+  padding: 11px 19px;
+  border-radius: 10px;
 }
 </style>
