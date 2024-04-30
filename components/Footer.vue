@@ -30,9 +30,9 @@
                     as well as upgrading the existing functioning.
                   </div>
                   <ul class="pbmit-social-links">
-                    <li class="pbmit-social-li pbmit-social-facebook">
+                    <li class="pbmit-social-li pbmit-social-pinterest">
                       <a
-                        title="Facebook"
+                        title="Pinterest"
                         href="https://pinterest.com/dcmedicalsystem/"
                         target="_blank"
                         rel="noopener"

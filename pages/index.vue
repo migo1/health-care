@@ -4,16 +4,16 @@
     <header class="site-header header-style-2">
       <Navbar />
       <div class="pbmit-slider-social">
-        <a title="Facebook" href="#" target="_blank">
-          <span><i class="pbmit-base-icon-facebook-f"></i></span>
+        <a title="Pinterest" href="https://pinterest.com/dcmedicalsystem/" target="_blank">
+          <span><i class="pbmit-base-icon-pinterest"></i></span>
         </a>
-        <a title="Twitter" href="#" target="_blank">
+        <a title="Twitter" href="https://twitter.com/dcmedicalsystem" target="_blank">
           <span><i class="pbmit-base-icon-twitter-2"></i></span>
         </a>
-        <a title="LinkedIn" href="#" target="_blank">
+        <a title="LinkedIn" href="https://www.linkedin.com/in/dc-medical-system-3863a1306/" target="_blank">
           <span><i class="pbmit-base-icon-linkedin-in"></i></span>
         </a>
-        <a title="Instagram" href="#" target="_blank">
+        <a title="Instagram" href="https://www.instagram.com/dcmedicalsystem/" target="_blank">
           <span><i class="pbmit-base-icon-instagram"></i></span>
         </a>
       </div>
