@@ -33,17 +33,17 @@
                     <li class="pbmit-social-li pbmit-social-facebook">
                       <a
                         title="Facebook"
-                        href="https://www.facebook.com/"
+                        href="https://pinterest.com/dcmedicalsystem/"
                         target="_blank"
                         rel="noopener"
                       >
-                        <span><i class="pbmit-base-icon-facebook-f"></i></span>
+                        <span><i class="pbmit-base-icon-pinterest"></i></span>
                       </a>
                     </li>
                     <li class="pbmit-social-li pbmit-social-twitter">
                       <a
                         title="Twitter"
-                        href="https://www.twitter.com/"
+                        href="https://twitter.com/dcmedicalsystem"
                         target="_blank"
                         rel="noopener"
                       >
@@ -53,7 +53,7 @@
                     <li class="pbmit-social-li pbmit-social-linkedin">
                       <a
                         title="LinkedIn"
-                        href="https://www.linkedin.com/"
+                        href="https://www.linkedin.com/in/dc-medical-system-3863a1306/"
                         target="_blank"
                         rel="noopener"
                       >
@@ -63,7 +63,7 @@
                     <li class="pbmit-social-li pbmit-social-instagram">
                       <a
                         title="Instagram"
-                        href="https://www.instagram.com/"
+                        href="https://www.instagram.com/dcmedicalsystem/"
                         target="_blank"
                         rel="noopener"
                       >
