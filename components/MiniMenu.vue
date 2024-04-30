@@ -40,8 +40,8 @@
                       <h4 class="pbmit-ads-subtitle">Ready for In-house healthcare ?</h4>
                       <h3 class="pbmit-ads-title">Book with us!</h3>
                       <div class="pbmit-ads-desc">
-                        <i class="pbmit-base-icon-phone-call-1"></i>+(123)
-                        1234-567-8901
+                        <i class="pbmit-base-icon-phone-call-1"></i>
+                        1-202- 361-9660
                       </div>
                       <NuxtLink class="pbmit-btn" to="/book_appointment">
                         <span class="pbmit-button-content-wrapper">
