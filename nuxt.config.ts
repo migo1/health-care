@@ -10,7 +10,6 @@ export default defineNuxtConfig({
       link: [{ rel: "icon", type: "image/x-icon", href: "/images/dc_logo.png" }],
       meta: [
         { name: "keywords", content: "dc medical system, dc medical system healthcare, dcmedicalsystem" },
-        { name: "google-site-verification", content: "YBQ7lHnfXbOky8fqV_BuChgET2qRuynyN82ovZiF3l8" }
       ],
       script: [
         { src: "/js/jquery.min.js", tagPosition: "bodyClose" },
