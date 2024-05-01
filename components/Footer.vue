@@ -140,9 +140,9 @@
               </div>
               <div class="col-md-6">
                 <ul class="pbmit-footer-menu">
-                  <li class="menu-item">
+                  <!-- <li class="menu-item">
                     <a href="#">Terms and conditions</a>
-                  </li>
+                  </li> -->
                   <li class="menu-item">
                     <a href="https://www.dcmedicalsystem.com/"> Copyright © 2024 dcmedicalsystem</a>
                   </li>
