@@ -135,7 +135,6 @@
               <div class="col-md-6">
                 <div class="pbmit-footer-copyright-text-area">
                   <!-- Copyright © 2024 -->
-                   <a target="_blank" href="https://robertmigot.me/">Developed by</a>
                 </div>
               </div>
               <div class="col-md-6">
